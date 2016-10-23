@@ -1,3 +1,6 @@
 h1 {
-  font-family: sans-serif;
+  font-family: $font-open-sans;
+  text-transform: uppercase;
+  font-size: rem(120);
+  text-align: center;
 }

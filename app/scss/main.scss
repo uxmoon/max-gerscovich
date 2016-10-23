@@ -3,6 +3,7 @@
 @import 'settings.colors';
 
 // Tools
+@import 'bourbon';
 
 // Generic
 @import 'generic.normalize';
@@ -60,4 +61,6 @@
 
 body {
   background-color: #daa;
+  font-family: $font-fallback;
+  font-weight: 400;
 }

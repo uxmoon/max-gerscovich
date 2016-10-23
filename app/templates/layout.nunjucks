@@ -7,7 +7,7 @@
   <meta name="description" content="Maximiliano Gerscovich">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link href="https://fonts.googleapis.com/css?family=Asap:400,700|Open+Sans:400,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Asap:700|Open+Sans+Condensed:300" rel="stylesheet">
   <!-- build:css css/styles.min.css -->
   <link rel="stylesheet" href="css/main.css">
   <!-- endbuild -->

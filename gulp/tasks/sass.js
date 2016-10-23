@@ -13,6 +13,7 @@ gulp.task('sass', function(){
     .pipe($.sourcemaps.init())
     .pipe($.sass({
       includePaths: [
+        require('node-bourbon').includePaths,
         'app/bower_components',
         'node_modules'
       ]
