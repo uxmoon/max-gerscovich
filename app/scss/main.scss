@@ -23,6 +23,7 @@
 @import 'objects.wrappers';
 
 // Components
+@import 'components.nav';
 @import 'components.buttons';
 
 // Trumps / Helpers
@@ -60,7 +61,6 @@
 }
 
 body {
-  background-color: #daa;
   font-family: $font-fallback;
   font-weight: 400;
 }

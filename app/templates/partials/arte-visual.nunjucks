@@ -1,0 +1,88 @@
+<div id="seccion-04" class="seccion arte-visual">
+
+  <h2 class="title-section">Arte visual</h2>
+
+  <div class="text-container">
+    <div class="nano">
+      <div class="content">
+        <p>Desde muy chico tuve la suerte de tener a mi alcance los libros de arte de la biblioteca materna, que era también maternal, porque tenía esa predisposición incondicional y a toda hora, que significó para mí una fuente de inagotables hallazgos: desde la técnica hiper precisa del realismo de Van Eyck a los colores alucinados de Gauguin, de los trazos sinuosos y tortuosos de Bacon a la brillantez lúdica de Jorge de la Vega.</p>
+        <p>Los planos rebatidos de los egipcios y las perspectivas aéreas de los italianos, las vehemencias de los españoles y las geometrías de los rusos, las audacias de  los franceses y las excentricidades de los americanos, todos esos mundos en láminas brillosas estaban tan íntimamente arraigados en mi imaginación que, en ocasión de un concurso de manchas para niños en el club, me pareció lo más natural del mundo pintar con crayones sobre papel la imagen de "El parlamento de Londres" de Claude Monet que yo tenía en mi cabeza y que terminó en el papel mediado sin duda por la destreza de un chico de diez años.</p>
+
+        <p>El jurado, conformado por tres artistas plásticos traídos para la ocasión, me otorgó el tercer premio, por lo que en las paredes de la confitería terminaron expuestas las obras del siguiente modo: primer premio, un caballito de brillantina; segundo, un hada posiblemente alada; y, tercero, un "Monet", lo cual desató una batahola entre los socios.</p>
+        <p>Ya por entonces era un posmoderno, sólo que ni yo, ni los socios, ni el jurado, lo sabíamos.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="story">
+    <div class="one_third">
+      <div class="mosaic-block bar placeholder-image top">
+        <a href="http://www.pinterest.com/maxigerscovich/boards/" target="_blank" class="mosaic-overlay">
+          <div class="details">
+            <img src="images/arte-visual/fotografia.jpg" alt="Fotografía" />
+          </div>
+        </a>
+        <div class="mosaic-backdrop">
+          <p>Fotografía</p>
+        </div>
+      </div>
+      <div class="mosaic-block bar placeholder-image">
+        <a href="http://www.pinterest.com/maxigerscovich/boards/" target="_blank" class="mosaic-overlay">
+          <div class="details">
+            <img src="images/arte-visual/pintura.jpg" alt="Pintura" />
+          </div>
+        </a>
+        <div class="mosaic-backdrop">
+          <p>Pintura</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="one_third">
+      <div class="mosaic-block bar placeholder-image top">
+        <a href="http://www.pinterest.com/maxigerscovich/boards/" target="_blank" class="mosaic-overlay">
+          <div class="details">
+            <img src="images/arte-visual/ilustraciones.jpg" alt="Ilustraciones" />
+          </div>
+        </a>
+        <div class="mosaic-backdrop">
+          <p>Ilustraciones</p>
+        </div>
+      </div>
+      <div class="mosaic-block bar placeholder-image">
+        <a href="http://www.pinterest.com/maxigerscovich/boards/" target="_blank" class="mosaic-overlay">
+          <div class="details">
+            <img src="images/arte-visual/historietas.jpg" alt="Historietas" />
+          </div>
+        </a>
+        <div class="mosaic-backdrop">
+          <p>Historietas</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="one_third last">
+      <div class="mosaic-block bar placeholder-image top">
+        <a href="http://www.pinterest.com/maxigerscovich/boards/" target="_blank" class="mosaic-overlay">
+          <div class="details">
+            <img src="images/arte-visual/dibujos.jpg" alt="Dibujos" />
+          </div>
+        </a>
+        <div class="mosaic-backdrop">
+          <p>Dibujos</p>
+        </div>
+      </div>
+      <div class="mosaic-block bar placeholder-image">
+        <a href="http://www.pinterest.com/maxigerscovich/boards/" target="_blank" class="mosaic-overlay">
+          <div class="details">
+            <img src="images/arte-visual/mas-trabajos.jpg" alt="Mas trabajos" />
+          </div>
+        </a>
+        <div class="mosaic-backdrop">
+          <p>Mas trabajos</p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>

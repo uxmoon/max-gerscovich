@@ -1,0 +1,13 @@
+<nav>
+  <ul class="c-nav">
+    <li class="c-nav__item  c-nav--active"><a href="#intro" title="Intro">Intro</a></li>
+    <li class="c-nav__item"><a href="#seccion-01" title="Novedades">Novedades</a></li>
+    <li class="c-nav__item"><a href="#seccion-02" title="Audiovisual">Audiovisual</a></li>
+    <li class="c-nav__item"><a href="#seccion-03" title="Música">Música</a></li>
+    <li class="c-nav__item"><a href="#seccion-04" title="Arte visual">Arte visual</a></li>
+    <li class="c-nav__item"><a href="#seccion-05" title="Letras">Letras</a></li>
+    <li class="c-nav__item"><a href="#seccion-06" title="Emprendimientos">Emprendimientos</a></li>
+    <li class="c-nav__item"><a href="#seccion-07" title="Biografía">Biografía</a></li>
+    <li class="c-nav__item"><a href="#seccion-08" title="Contacto">Contacto</a></li>
+  </ul>
+</nav>

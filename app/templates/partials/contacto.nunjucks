@@ -1,0 +1,37 @@
+<footer id="seccion-08" class="seccion contacto">
+  <div class="story">
+    <h3 class="title-section">Contacto</h3>
+    <div class="two_third" id="contact">
+
+
+
+      <div id="contact-form">
+
+        <form id="contact-us" class="form" action="index.php" method="post">
+          <div class="formblock">
+
+            <input type="text" name="contactName" id="contactName" value="" class="text txt requiredField" placeholder="Nombre" />
+                        </div>
+
+          <div class="formblock">
+            <input type="text" name="email" id="email" value="" class="text txt requiredField email" placeholder="Email" />
+                        </div>
+
+          <div class="formblock">
+             <textarea name="comments" id="commentsText" class="textarea txtarea requiredField" placeholder="Mensaje"></textarea>
+                        </div>
+
+            <button name="submit" type="submit" class="subbutton submit-button">Enviar</button>
+            <input type="hidden" name="submitted" id="submitted" value="true" />
+        </form>
+      </div>
+
+
+    </div>
+    <div class="one_third last">
+      <p><a href="https://www.facebook.com/maximiliano.gerscovich?fref=ts" title="facebook" target="_blank" class="link external facebook">/maximiliano.gerscovich</a></p>
+      <p><a href="https://twitter.com/Maxi_Gerscovich" title="twitter" target="_blank" class="link external twitter">@Maxi_Gerscovich</a></p>
+    </div>
+
+  </div>
+</footer>

@@ -1,0 +1,55 @@
+  <div id="seccion-02" class="seccion audiovisual">
+
+      <div class="content">
+        <h2 class="title-section">Audiovisual</h2>
+         <div class="text-container">
+         <div class="nano">
+          <div class="content clearfix">
+
+
+            <p>Conocí a MG en el viejo CERC. Éramos pocos, y no necesariamente los mejores de nuestra generación. El reinado del NCA aun no se vislumbraba, y todavía había que discutir con los profesores y soñar con hacer cine por fuera del Mainstream (ni siquiera existían las cámaras digitales, como para alimentar nuestro sueño de independencia). Los hermanos mayores parecían condenados al exilio o a eternizarse en el escalafón de la industria. Y los hermanos menores (los niños ricos y tristes que los noventas vinieron a criar) buscaban horizontes menos públicos y populares. Nosotros quedamos atrapados en esa trama demasiado familiar: algunos cayeron en el éxito o el fracaso, y algunos pocos lograron hacer algo de lo que realmente se sintieran orgullosos.</p>
+
+            <p>MG peleó, y ganó y perdió, y sigue peleando. Debajo de su aparente paradoja y su evidente eclecticismo, se esconde la mentada obsesión del artista. Primero intentó un Borges ligero y grave, que sorprendía por la fluidez de su puesta y la proliferación de sus diálogos. Esa reunión imposible también aparece en su opera prima, llamada simplemente Stephanie. El nombre me pareció el primer equívoco: sonaba demasiado extranjero -aunque resonaba como el cuento homónimo de Ellroy-, para ser lo que finalmente fue: un film sobre la misoginia, o -mejor aún- sobre la imaginación misógina, con un cuidado tratamiento visual cuyo secreto foco es un oído atento al habla masculina. Poca gente lo entendió así, tal vez porque era un film literalmente "fuera de lugar" (como si no hubiera espacio para esa indeterminación entre experimentación y clasicismo). Stephanie es una de las películas más inusuales del Nuevo Cine Argentino (tanto que podría poner en crisis la categoría misma) y se convertiría en uno de sus films malditos (si al menos fuera reconocido como tal...).</p>
+
+            <p>Cuenta la leyenda que luego de ver Eraserhead, Mel Brooks salió de la sala y se aferró al desazonado David Lynch (que pensaba que su carrera había terminado antes de empezar) al grito de "You're a madman... I love you!": es tan común que los productores griten sólo la primera mitad de esa frase como que algunos se entreguen a la segunda, pero lo verdaderamente extraño es que articulen  ambas mitades y defiendan a ese talento desquiciado. Pensar que el talento de Lynch podía quedar en el borrador de Eraserhead es tan injusto como asumir que el de MG se agota en ese experimento cruel llamado Stephanie.</p>
+
+            <p class="author">por Nicolás Prividera</p>
+          </div>
+        </div>
+        </div>
+    <div class="story">
+
+      <div class="one_fourth">
+        <h3 class="video-title">Reel</h3>
+        <a class="various fancybox.iframe" href="http://www.youtube.com/embed/RpUoE4Y53EQ?rel=0"><img src="images/audiovisual/reel.jpg" alt="Reel" /></a>
+
+        <h3 class="video-title">This Love</h3>
+        <a class="various fancybox.iframe" href="http://www.youtube.com/embed/5c8MARpMYuk?rel=0"><img src="images/audiovisual/this-love.jpg" alt="This Love" /></a>
+      </div>
+      <div class="one_fourth">
+        <h3 class="video-title">Stephanie Trailer</h3>
+        <a class="various fancybox.iframe" href="http://www.youtube.com/embed/1DDf2IgHXwI?rel=0"><img src="images/audiovisual/stephanie-trailer.jpg" alt="Stephanie Trailer" /></a>
+
+
+        <h3 class="video-title">Mezcalina</h3>
+        <a class="various fancybox.iframe" href="http://www.youtube.com/embed/4_AtjMG_CFw?rel=0"><img src="images/audiovisual/mezcalina.jpg" alt="Mezcalina" /></a>
+      </div>
+      <div class="one_fourth">
+        <h3 class="video-title">Stephanie</h3>
+        <a class="various fancybox.iframe" href="http://www.youtube.com/embed/nBfyEMM-ZUQ?rel=0"><img src="images/audiovisual/stephanie.jpg" alt="Stephanie" /></a>
+
+        <h3 class="video-title">El show de Anselmo</h3>
+        <a class="various fancybox.iframe" href="http://www.youtube.com/embed/BgEye74EA7o?rel=0"><img src="images/audiovisual/el-show-de-anselmo.jpg" alt="El show de Anselmo" /></a>
+      </div>
+      <div class="one_fourth last">
+        <h3 class="video-title">El encuentro</h3>
+        <a class="various fancybox.iframe" href="http://www.youtube.com/embed/oZpUCsYk2r4?rel=0"><img src="images/audiovisual/el-encuentro.jpg" alt="El encuentro" /></a>
+
+        <div class="more placeholder-image">
+          <p><a href="http://www.youtube.com/user/maxigerscovich" target="_blank">mas videos</a></p>
+        </div>
+      </div>
+    </div>
+
+  </div>
+  </div>

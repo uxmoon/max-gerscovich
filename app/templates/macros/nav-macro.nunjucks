@@ -1,7 +1,15 @@
 {% macro active(activePage='home') %}
 <nav>
-  <a href="index.html" class="{%if activePage == 'home' %}active{% endif %}">Home</a>
-  <a href="about.html" class="{%if activePage == 'about' %}active{% endif %}">About</a>
-  <a href="contact.html" class="{%if activePage == 'contact' %}active{% endif %}">Contact</a>
+  <ul>
+    <li class="active"><a href="#intro" title="Intro">Intro</a></li>
+    <li><a href="#seccion-01" title="Novedades">Novedades</a></li>
+    <li><a href="#seccion-02" title="Audiovisual">Audiovisual</a></li>
+    <li><a href="#seccion-03" title="Música">Música</a></li>
+    <li><a href="#seccion-04" title="Arte visual">Arte visual</a></li>
+    <li><a href="#seccion-05" title="Letras">Letras</a></li>
+    <li><a href="#seccion-06" title="Emprendimientos">Emprendimientos</a></li>
+    <li><a href="#seccion-07" title="Biografía">Biografía</a></li>
+    <li><a href="#seccion-08" title="Contacto">Contacto</a></li>
+  </ul>
 </nav>
 {% endmacro %}

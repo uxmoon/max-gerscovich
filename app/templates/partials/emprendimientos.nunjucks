@@ -1,0 +1,23 @@
+<div id="seccion-06" class="seccion emprendimientos">
+  <div class="story">
+
+    <div class="text-container clearfix">
+
+      <h2 class="title-section">Emprendimientos</h2>
+
+      <div class="one_half">
+          <iframe width="470" height="264" src="//www.youtube.com/embed/wSwEMwayFaA?rel=0&amp;wmode=transparent;showinfo=0;controls=0" style="border-width: 0;" allowfullscreen></iframe>
+      </div>
+
+      <div class="one_half last">
+        <p>En 2012 me sumé a esta nueva ola de emprendedores que está poblando felizmente el ecosistema de Start Ups. Mi primer proyecto fue Vidioma, que pasó la primera selección en Wayra, la aceleradora de Telefónica, quedando seleccionada junto a otras 50 de entre más de 1.200 propuestas. Mientras Vidioma iba mutando de forma, empecé a desarrollar otro emprendimiento: <strong>Argum3nt</strong> eleva a un nuevo nivel la experiencia de crear, protagonizar y ganar debates.</p>
+      </div>
+
+    </div>
+
+    <div class="one_fourth"><img src="images/emprendimientos/vidioma-01.jpg" alt="Vidioma"></div>
+    <div class="one_fourth"><img src="images/emprendimientos/vidioma-02.jpg" alt="Vidioma"></div>
+    <div class="one_fourth"><img src="images/emprendimientos/vidioma-03.jpg" alt="Vidioma"></div>
+    <div class="one_fourth last"><img src="images/emprendimientos/vidioma-04.jpg" alt="Vidioma"></div>
+  </div>
+</div>
