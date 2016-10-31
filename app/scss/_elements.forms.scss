@@ -1,0 +1,37 @@
+input,
+textarea {
+	width: 100%;
+	min-height: 31px;
+	border: none;
+	background-color: $color-input;
+	color: $color-yellow;
+	border: 1px solid $color-input;
+	padding: rem(2) rem(10);
+	
+	&:focus {
+		background-color: $color-yellow;
+		color: $color-text;
+	}	
+}
+
+textarea {
+	font-family: $font-fallback;
+	height: 138px;
+}
+
+button {
+	background-color: $color-salmon;
+	border-width: 0;
+	color: $color-yellow;
+	cursor: pointer;
+	font-family: $font-asap;
+	font-family: rem(16);
+	padding: rem(9) rem(18);
+	text-transform: uppercase;
+
+	&:hover,
+	&:focus {
+		background-color: $color-yellow;
+		color: $color-text;
+	}
+}

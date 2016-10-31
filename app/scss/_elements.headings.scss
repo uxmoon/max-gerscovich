@@ -9,10 +9,11 @@ h1 {
 h2 {
 	color: $color-salmon;
   font-family: $font-open-sans;
+  font-weight: 300;
   font-size: rem(86);
-	letter-spacing: -1px;
+	letter-spacing: -0.125rem;
 	text-transform: uppercase;
 	margin-bottom: rem(40);
 }
 
-
+h3 {}
