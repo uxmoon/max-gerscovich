@@ -2,11 +2,11 @@
 
 {% block content %}
 
-  <header>
-    <h1>Maximiliano Gerscovich</h1>
+  <header class="c-header">
+    <h1>Maximiliano<br>Gerscovich</h1>
+    {% include "partials/nav.nunjucks" %}
   </header>
 
-  {% include "partials/nav.nunjucks" %}
 
   {% include "partials/novedades.nunjucks" %}
   {% include "partials/audiovisual.nunjucks" %}

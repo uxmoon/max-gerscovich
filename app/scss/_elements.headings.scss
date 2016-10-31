@@ -3,4 +3,16 @@ h1 {
   text-transform: uppercase;
   font-size: rem(120);
   text-align: center;
+  color: $color-yellow;
 }
+
+h2 {
+	color: $color-salmon;
+  font-family: $font-open-sans;
+  font-size: rem(86);
+	letter-spacing: -1px;
+	text-transform: uppercase;
+	margin-bottom: rem(40);
+}
+
+

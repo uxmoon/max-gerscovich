@@ -1,6 +1,6 @@
 <div id="seccion-05" class="seccion palabras">
   <div class="story">
-    <h2 class="title-section">Palabras</h2>
+    <h2>Palabras</h2>
     <div id="tabs-letras">
       <ul>
         <li><a href="#tabs-1" title="Proyectos">Proyectos</a></li>
