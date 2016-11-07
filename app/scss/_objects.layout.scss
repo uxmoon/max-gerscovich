@@ -1,0 +1,23 @@
+$susy: (
+	container: 80em,
+	columns: 12,
+	gutters: 1/6
+);
+
+.l-container {
+	@include container;
+}
+
+@media (min-width: 64em) {
+	.contact__form {
+		@include span(6);
+	}
+	.contact__social {
+		@include span(4 last);
+	}
+}
+
+.l-module {
+	padding-top: rem(50);
+	padding-bottom: rem(50);
+}

@@ -1,31 +1,44 @@
-<footer id="seccion-08" class="seccion contacto  bg-dark  bg-dark--textured">
-  <div class="story">
-    <h2>Contacto</h2>
-    <div class="two_third" id="contact">
+<footer id="seccion-08" class="seccion contacto  bg-dark  bg-dark--textured  l-module">
 
-      <div id="contact-form">
+  <div class="story  l-container">
+    <h2>Contacto</h2>
+    <div id="contact">
+
+      <div id="contact-form" class="contact__form">
+        
         <form id="contact-us" class="form" action="index.php" method="post">
-          <div class="formblock">
+          <div class="contact__item">
             <input type="text" name="contactName" id="contactName" value="" class="text txt requiredField" placeholder="Nombre" />
           </div>
 
-          <div class="formblock">
+          <div class="contact__item">
             <input type="text" name="email" id="email" value="" class="text txt requiredField email" placeholder="Email" />
           </div>
 
-          <div class="formblock">
+          <div class="contact__item">
              <textarea name="comments" id="commentsText" class="textarea txtarea requiredField" placeholder="Mensaje"></textarea>
           </div>
 
           <button name="submit" type="submit" class="subbutton submit-button">Enviar</button>
           <input type="hidden" name="submitted" id="submitted" value="true" />
         </form>
+
       </div>
     </div>
 
-    <div class="one_third last">
-      <p><a href="https://www.facebook.com/maximiliano.gerscovich?fref=ts" title="facebook" target="_blank" class="link external facebook">/maximiliano.gerscovich</a></p>
-      <p><a href="https://twitter.com/Maxi_Gerscovich" title="twitter" target="_blank" class="link external twitter">@Maxi_Gerscovich</a></p>
+    <div class="contact__social">
+      <a href="https://www.facebook.com/maximiliano.gerscovich?fref=ts" title="facebook" class="link--primary">
+        <svg class="icon  icon--large  icon--colored  icon-facebook">
+          <use xlink:href="#icon-facebook"></use>
+        </svg>
+        /maximiliano.gerscovich
+      </a>
+      <a href="https://twitter.com/Maxi_Gerscovich" title="twitter" class="link--primary">
+        <svg class="icon  icon--large  icon--colored  icon-twitter">
+          <use xlink:href="#icon-twitter"></use>
+        </svg>
+        @Maxi_Gerscovich
+      </a>
     </div>
 
   </div>

@@ -19,6 +19,7 @@
 @import 'elements.forms';
 
 // Objects
+@import 'susy/sass/susy';
 @import 'objects.layout';
 @import 'objects.wrappers';
 @import 'objects.backgrounds';
@@ -27,6 +28,8 @@
 @import 'components.header';
 @import 'components.nav';
 @import 'components.buttons';
+@import 'components.icons';
+@import 'components.contact';
 
 // Trumps / Helpers
 @import 'helpers.clearfix';
@@ -35,13 +38,6 @@
 @import 'sprites';
 .github {
   @include retina-sprite($github-group);
-}
-
-// susy
-
-@import 'susy/sass/susy';
-.susy {
-  @include span(2);
 }
 
 /* uncss:ignore */

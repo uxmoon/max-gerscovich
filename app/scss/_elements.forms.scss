@@ -1,12 +1,12 @@
 input,
 textarea {
 	width: 100%;
+	padding: rem(2) rem(10);
+	margin-bottom: rem(20);
 	min-height: 31px;
-	border: none;
+	border: 1px solid $color-input;
 	background-color: $color-input;
 	color: $color-yellow;
-	border: 1px solid $color-input;
-	padding: rem(2) rem(10);
 	
 	&:focus {
 		background-color: $color-yellow;
