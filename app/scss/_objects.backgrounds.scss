@@ -5,3 +5,11 @@
 .bg-dark--textured {
 	background-image: url('../images/bg/bg-texture-dark.png');
 }
+
+.bg-light {
+	background-color: $color-yellow-secondary;
+}
+
+.bg-light--textured {
+	background-image: url('../images/bg/bg-texture-light.png');
+}

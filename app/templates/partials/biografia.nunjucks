@@ -1,17 +1,19 @@
-<div id="seccion-07" class="seccion biografia">
+<div id="seccion-07" class="seccion biografia  bg-light  bg-light--textured">
   <div class="story">
 
     <h2>Biografía</h2>
 
-    <div class="two_third">
+    <div class="l-container">
 
       <div id="tabs-biografia">
-        <ul>
-          <li><a href="#tabs-6" title="Reseña">Reseña</a></li>
-          <li><a href="#tabs-7" title="Estudios">Estudios</a></li>
-          <li><a href="#tabs-8" title="Premios">Premios</a></li>
-          <li><a href="#tabs-9" title="Destacado">Destacado</a></li>
+        
+        <ul class="c-tabs">
+          <li class="c-tabs__item"><a href="#tabs-6" title="Reseña">Reseña</a></li>
+          <li class="c-tabs__item"><a href="#tabs-7" title="Estudios">Estudios</a></li>
+          <li class="c-tabs__item"><a href="#tabs-8" title="Premios">Premios</a></li>
+          <li class="c-tabs__item"><a href="#tabs-9" title="Destacado">Destacado</a></li>
         </ul>
+
         <div id="tabs-6">
           <div id="slider-bio" class="flexslider">
             <ul class="slides">
