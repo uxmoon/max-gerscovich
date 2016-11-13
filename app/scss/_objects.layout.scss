@@ -21,3 +21,11 @@ $susy: (
 	padding-top: rem(50);
 	padding-bottom: rem(50);
 }
+
+
+.c-bio__about {
+	@include span(8);
+}
+.c-bio__press {
+	@include span(4 last);
+}

@@ -1,13 +1,13 @@
-<div id="seccion-07" class="seccion biografia  bg-light  bg-light--textured">
+<div id="seccion-07" class="seccion c-biografia  bg-light  bg-light--textured">
   <div class="story">
 
     <h2>Biografía</h2>
 
     <div class="l-container">
 
-      <div id="tabs-biografia">
+      <div id="tabs-biografia" class="c-bio__about">
         
-        <ul class="c-tabs">
+        <ul class="c-tabs  c-tabs--dark">
           <li class="c-tabs__item"><a href="#tabs-6" title="Reseña">Reseña</a></li>
           <li class="c-tabs__item"><a href="#tabs-7" title="Estudios">Estudios</a></li>
           <li class="c-tabs__item"><a href="#tabs-8" title="Premios">Premios</a></li>
@@ -19,18 +19,26 @@
             <ul class="slides">
               <li>
                 <p>Nací en Buenos Aires, capital de Argentina, poco menos de un mes después de que Neil Alden Armstrong diera un gran paso para la humanidad en la Luna, sólo dos días después de que el clan Manson matara a una de las mujeres más lindas de Hollywood, y en el año en que empezaron a separarse los Beatles. Soy hijo de un matrimonio de clase media porteña, ambos profesionales  y profesores universitarios (mi mamá historiadora del arte y mi papá abogado). Fui inmediatamente muy querido y, hasta el día de hoy, sigue siendo mi familia, de ascendencia rusa e italiana, la que me sigue soportando incondicionalmente como el primer día que llegué  a sus vidas, hinchado, gris-azulado y exhausto por complicaciones en el parto.</p>
-                <a class="open_fancybox" href="images/biografia/galeria/biografia-01.jpg"><div class="photo photo-01"></div></a>
+                <a class="open_fancybox" href="images/biografia/galeria/biografia-01.jpg">
+                  <img src="images/biografia/biografia-01.jpg">
+                </a>
               </li>
               <li>
-                <a class="open_fancybox" href="images/biografia/galeria/biografia-01.jpg"><div class="photo photo-02"></div></a>
+                <a class="open_fancybox" href="images/biografia/galeria/biografia-01.jpg">
+                  <img src="images/biografia/biografia-02.jpg">
+                </a>
                 <p>Soy también un producto de la educación estatal argentina: la primaria en Villa Crespo, un barrio de mayoría judía de Buenos Aires, luego vino el más venerado que venerable Colegio Nacional de Buenos Aires, un breve paso por la carrera de Filosofía en la Universidad de Buenos Aires y por la Escuela Superior de Bellas Artes Ernesto de la Cárcova, para finalmente recibirme de director de fotografía en la escuela de cine del Instituto Nacional de Cine y Artes Audiovisuales de la Argentina, donde aprendí a amar el cine y a renegar de quienes lo hacen.</p>
               </li>
               <li>
                 <p>Gané mi primer premio internacional a los diecinueve años y, a lo largo de dos décadas y media, recibí menos de los que ese comienzo auspicioso había augurado, dato más que elocuente en una época superpoblada de jurados. Pero sí hay uno que guardo -literalmente- con mucho orgullo, y es el que me dieron mis compañeros del último grado de la escuela primaria, cuando me eligieron mejor compañero. Un premio que en realidad fue el corolario de un año en el que promoví con la mayor de las inconsciencias la creación de algo así como un centro de estudiantes naif, del que fui electo también presidente y que fue asombrosamente permitido, en un tiempo, el penúltimo año de la peor dictadura militar argentina, en el que algo así era insólito para una escuela primaria y en el que hasta los centros de estudiantes universitarios estaban prohibidos.</p>
-                <a class="open_fancybox" href="images/biografia/galeria/biografia-01.jpg"><div class="photo photo-03"></div></a>
+                <a class="open_fancybox" href="images/biografia/galeria/biografia-01.jpg">
+                  <img src="images/biografia/biografia-03.jpg">
+                </a>
               </li>
               <li>
-                <a class="open_fancybox" href="images/biografia/galeria/biografia-01.jpg"><div class="photo photo-04"></div></a>
+                <a class="open_fancybox" href="images/biografia/galeria/biografia-01.jpg">
+                  <img src="images/biografia/biografia-04.jpg">
+                </a>
                 <p>Entre los hechos más relevantes de mi vida sólo voy a mencionar el sucedido a bordo de un barco que pretendía ser un crucero pero cuyo rasgo más destacado era mantenerse a flote. Iba rumbo a las Cataratas del Iguazú. Yo tenía creo que nueve años y me enamoré por primera vez. Ella era grande, tendría doce. En un improvisado baile de disfraces aún más improvisados, me rechazó. Se llamaba Dolores. A partir de esa experiencia, tomé nota de las pocas chances de levantarse a una chica que tiene uno, sobre todo si lleva puestas las pantimedias rojas de su mamá. En lo sucesivo cambié mi vestuario, pero no logré dejar de ser rechazado, tema sobre el cual creo que gira casi toda mi producción artística. </p>
               </li>
             </ul>
@@ -96,22 +104,35 @@
             <ul class="slides">
               <li>
                 <ul>
-                  <li class="premio premio-01">Premio al <strong>Mejor Guión de Cine</strong>. <br>
+                  <li class="premio premio-01">
+                  <img src="images/premios/premios-01.jpg">
+
+                  Premio al <strong>Mejor Guión de Cine</strong>. <br>
                   Primera Bienal Iberoamericana de Arte Joven, Buenos Aires 1989.  <br>
                   Único premio destinado a un guión de cine para su realización producida por el Instituto Nacional de Cine.</li>
-                  <li class="premio premio-02">Premio <strong>Medalla de Plata</strong>, Concurso XXV Aniversario de la Escuela Panamericana de Arte, concedido por la Asociación Internacional de Críticos de Arte, Sección Argentina, 1989. La lista de artistas seleccionados en este concurso de carácter latinoamericano incluye a: Carlos Nine, Luis Benedit, Remo Bianchedi, Crist, Luis Zeminian (Brasil), entre otros autores de reconocida trayectoria.</li>
+                  <li class="premio premio-02">
+                  <img src="images/premios/premios-02.jpg">
+                  Premio <strong>Medalla de Plata</strong>, Concurso XXV Aniversario de la Escuela Panamericana de Arte, concedido por la Asociación Internacional de Críticos de Arte, Sección Argentina, 1989. La lista de artistas seleccionados en este concurso de carácter latinoamericano incluye a: Carlos Nine, Luis Benedit, Remo Bianchedi, Crist, Luis Zeminian (Brasil), entre otros autores de reconocida trayectoria.</li>
                 </ul>
               </li>
               <li>
                 <ul>
-                  <li class="premio premio-03"><strong>Premio de Coproducción</strong>, por el cortometraje El Encuentro, Buenos Aires no duerme '98. Único trabajo de cine seleccionado por la Secretaría de Cultura del Gobierno de la Ciudad de Buenos Aires para ser coproducido en el marco de aquella muestra, consistente en la provisión de los elementos de postproducción necesarios para su finalización en 35 mm.</li>
-                  <li class="premio premio-04"><strong>Primer Premio al Mejor Cortometraje</strong> por El Encuentro, Festival Internacional de Cine y Televisión de Ginebra "Cinema Tout Ecran", Suiza, 1999. Premio concedido por la SSA (Sociedad Suiza de Autores). La muestra estuvo integrada por 60 cortometrajes, en su mayoría coproducidos por Canal +, entre los que participó el ganador del Oscar 1999 "Valgaften (Election night)" con Ulrich Thomsen (La Celebración); "Desserts" con Ewan MacGregor (Trainspoting, Episode I);"Ruleta" Selección Oficial Cannes 1999, con Aitana Sanchez Gijón, Loles León, Mirta Ibarra; "Rien Dire" dirigida por Vincent Perez (Entrevista Con Un Vampiro)</li>
+                  <li class="premio premio-03">
+                  <img src="images/premios/premios-03.jpg">
+                  <strong>Premio de Coproducción</strong>, por el cortometraje El Encuentro, Buenos Aires no duerme '98. Único trabajo de cine seleccionado por la Secretaría de Cultura del Gobierno de la Ciudad de Buenos Aires para ser coproducido en el marco de aquella muestra, consistente en la provisión de los elementos de postproducción necesarios para su finalización en 35 mm.</li>
+                  <li class="premio premio-04">
+                  <img src="images/premios/premios-04.jpg">
+                  <strong>Primer Premio al Mejor Cortometraje</strong> por El Encuentro, Festival Internacional de Cine y Televisión de Ginebra "Cinema Tout Ecran", Suiza, 1999. Premio concedido por la SSA (Sociedad Suiza de Autores). La muestra estuvo integrada por 60 cortometrajes, en su mayoría coproducidos por Canal +, entre los que participó el ganador del Oscar 1999 "Valgaften (Election night)" con Ulrich Thomsen (La Celebración); "Desserts" con Ewan MacGregor (Trainspoting, Episode I);"Ruleta" Selección Oficial Cannes 1999, con Aitana Sanchez Gijón, Loles León, Mirta Ibarra; "Rien Dire" dirigida por Vincent Perez (Entrevista Con Un Vampiro)</li>
                 </ul>
               </li>
               <li>
                 <ul>
-                  <li class="premio premio-05"><strong>Proyecto ganador del Concurso de Telefilms</strong> con El Juicio de Dios, adaptación del cuento de Antonio Di Benedetto. Instituto Nacional de Cine y Artes Audiovisuales y Canal 7, 2001.</li>
-                  <li class="premio premio-06"><strong>Premio al Mejor Director</strong> por Stephanie, Competencia Internacional New York International Independent Film &amp; Video Festival, 2005. <i class="icon-eye-open"></i> <a href="http://nyfilmvideo.net/content/view/183/124/" target="_blank">Lista de ganadores</a>.</li>
+                  <li class="premio premio-05">
+                  <img src="images/premios/premios-05.jpg">
+                  <strong>Proyecto ganador del Concurso de Telefilms</strong> con El Juicio de Dios, adaptación del cuento de Antonio Di Benedetto. Instituto Nacional de Cine y Artes Audiovisuales y Canal 7, 2001.</li>
+                  <li class="premio premio-06">
+                  <img src="images/premios/premios-06.jpg">
+                  <strong>Premio al Mejor Director</strong> por Stephanie, Competencia Internacional New York International Independent Film &amp; Video Festival, 2005. <i class="icon-eye-open"></i> <a href="http://nyfilmvideo.net/content/view/183/124/" target="_blank">Lista de ganadores</a>.</li>
                 </ul>
               </li>
             </ul>
@@ -123,7 +144,9 @@
               <li>
                 <p><strong>Director, Guionista, Director de Fotografía y Montajista</strong> de <strong>Stephanie</strong>, largometraje de ficción, 80 minutos,  protagonizado por Antonio Birabent, Soledad Fandiño, Carlos Echevarría, Javier Lorenzo, Juan Minujín, Gustavo Monje,  Jimena Carati, Gaia Rosviar y Ana Federik. High Definition, 2004.</p>
 
-                <a id="single_1" href="images/biografia/poster-stephanie-full.jpg" title="Stephanie"><div class="poster stephanie"></div></a>
+                <a id="single_1" href="images/biografia/poster-stephanie-full.jpg" title="Stephanie">
+                  <img src="images/biografia/poster-stephanie.jpg" alt="Stephanie">
+                </a>
 
                 <p><strong>Stephanie</strong> es uno de los primeros largometrajes que se filmaron íntegramente en HD profesional en Argentina. Estrenada el 22 de Diciembre de 2011, con amplia repercusión mediática en todos los países de habla hispana, por lo novedoso de su formato de distribución y exhibición, es el primer film de producción nacional que se lanza en forma gratuita desde su sitio web en formato de alta definición, a todo el universo on line que tenga acceso a Internet: desde una computadora, un dispositivo móvil o los nuevos televisores inteligentes. Hasta la fecha, Stephanie fue vista por 250.000 espectadores.</p>
 
@@ -134,9 +157,11 @@
 
                 <p><strong>El Encuentro</strong>, basado en un cuento de Jorge Luis Borges, fue estrenado en el ciclo Noches Especiales del BAFICI, Festival Internacional de Cine Independiente de Buenos Aires, 1999.</p>
                 <div class="poster el-encuentro"></div>
+                <img src="images/biografia/poster-el-encuentro.jpg" alt="El Encuentro">
               </li>
               <li>
                 <div class="poster cinema"></div>
+                <img src="images/biografia/poster-cinema.jpg" alt="Festival Internacional de Ginebra Cinema Tout Ecran">
                 <p>En 1998, aún como doble banda en video, fue seleccionado en competencia en el <strong>Festival Internacional de Santiago de Chile</strong>; en el <strong>Festival de Valdivia</strong>; en el de <abbr title="Unión de Cineistas de Paso Reducido">UNCIPAR</abbr> y en el <strong>Festival Tiempos Cortos</strong> de la Facultad de Filosofía y Letras de la UBA y proyectado en <strong>Buenos Aires No Duerme '98</strong>.</p>
 
                 <p>En 1999, en su versión final en 35mm, integró la selección oficial del <strong>Festival Internacional de Ginebra Cinema Tout Ecran</strong> obteniendo el premio al mejor cortometraje. Fue el único cortometraje fílmico de ficción de Argentina seleccionado para la competencia oficial en el XXI <strong>Festival del Nuevo Cine Latinoamericano de La Habana</strong>, Cuba. El afiche de El Encuentro llegó a la instancia final de selección junto a otros veinte entre más de doscientas películas presentadas, integrando la Exposición de Afiches en Concurso. En noviembre de este mismo año, El Encuentro es proyectado en la inauguración oficial de la muestra <strong>Córdoba Audiovisual</strong> e invitado el realizador para la ceremonia de apertura.</p>
@@ -181,10 +206,8 @@
         </div>
       </div>
 
-    </div>
 
-
-    <div class="one_third prensa related last">
+    <div class="one_third prensa related last c-bio__press">
 
       <h3 class="title">Prensa</h3>
       <div id="articles" class="nano">

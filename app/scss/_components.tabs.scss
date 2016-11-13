@@ -1,34 +1,51 @@
-.c-nav {
-	background-color: $color-black;
-	text-align: center;
+.c-tabs {
+
 }
 
-.c-nav__item {
+.c-tabs__item {
 	display: inline-block;
 	font-family: $font-asap;
 	font-weight: 700;
 	font-size: rem(16);
-	text-transform: uppercase;
 
 	a:link,
 	a:visited {
 		display: block;
 		padding: 10px;
-		color: $color-yellow;
+		// color: $color-yellow;
 	}
 
 	a:hover,
 	a:focus,
 	a:active {
-		background-color: $color-yellow;
-		color: $color-text;
+		// background-color: $color-yellow;
+		// color: $color-text;
 		text-decoration: none;
 	}
 }
 
-.c-nav--active {
+.c-tabs--active {
 	a:link,
 	a:hover {
-		background-color: $color-salmon;
+		// background-color: $color-salmon;
 	}
+}
+
+// Tabs
+.c-tabs--dark {
+	
+	a:link,
+	a:visited {
+		color: $color-black;
+	}
+	
+	.ui-state-active a {
+		background-color: $color-salmon;
+		color: $color-yellow
+	}
+
+}
+
+.c-tabs--light {
+
 }
