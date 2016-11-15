@@ -29,3 +29,23 @@ $susy: (
 .c-bio__press {
 	@include span(4 last);
 }
+
+.o-emprendimientos__wrap,
+.o-emprendimientos__related {
+	@include container;
+}
+
+.o-emprendimientos__media {
+	@include span(6 of 12);
+}
+.o-emprendimientos__content {
+	@include span(6 of 12 last);
+}
+
+.o-emprendimientos__item {
+	@include span(3 of 12);
+}
+.o-emprendimientos__item:last-child {
+	@include span(3 of 12 last);
+}
+
