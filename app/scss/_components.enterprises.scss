@@ -1,0 +1,19 @@
+// Emprendimientos / enterprises
+.c-enterprises__wrap,
+.c-enterprises__related {
+	@include container;
+}
+
+.c-enterprises__media {
+	@include span(6 of 12);
+}
+.c-enterprises__content {
+	@include span(6 of 12 last);
+}
+
+.c-enterprises__item {
+	@include span(3 of 12);
+}
+.c-enterprises__item:last-child {
+	@include span(3 of 12 last);
+}

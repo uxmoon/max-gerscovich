@@ -1,0 +1,9 @@
+// Biography / Biografia
+
+.c-bio__about {
+	@include span(8);
+}
+
+.c-bio__press {
+	@include span(4 last);
+}

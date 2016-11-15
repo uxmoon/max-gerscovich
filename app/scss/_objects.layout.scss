@@ -1,5 +1,5 @@
 $susy: (
-	container: 80em,
+	container: 62.5em,
 	columns: 12,
 	gutters: 1/6
 );
@@ -22,30 +22,35 @@ $susy: (
 	padding-bottom: rem(50);
 }
 
-
-.c-bio__about {
-	@include span(8);
-}
-.c-bio__press {
-	@include span(4 last);
-}
-
-.o-emprendimientos__wrap,
-.o-emprendimientos__related {
-	@include container;
-}
-
-.o-emprendimientos__media {
-	@include span(6 of 12);
-}
-.o-emprendimientos__content {
-	@include span(6 of 12 last);
-}
-
-.o-emprendimientos__item {
+.l-column-4 {
 	@include span(3 of 12);
 }
-.o-emprendimientos__item:last-child {
+
+.l-column-4:last-child {
 	@include span(3 of 12 last);
 }
 
+.l-column-3 {
+	@include span(4 of 12);
+}
+
+.l-column-3:last-child {
+	@include span(4 of 12 last);
+}
+
+
+.l-column-full {
+	@include container;
+}
+
+.l-row {
+	@include container;
+}
+
+.l-column-8 {
+	@include span(8 of 12);
+}
+
+.l-column-4 {
+	@include span(4 of 12 last);
+}
