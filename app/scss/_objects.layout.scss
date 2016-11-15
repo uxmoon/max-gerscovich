@@ -22,35 +22,31 @@ $susy: (
 	padding-bottom: rem(50);
 }
 
-.l-column-4 {
-	@include span(3 of 12);
-}
-
-.l-column-4:last-child {
-	@include span(3 of 12 last);
-}
-
-.l-column-3 {
-	@include span(4 of 12);
-}
-
-.l-column-3:last-child {
-	@include span(4 of 12 last);
-}
-
-
-.l-column-full {
-	@include container;
-}
-
+.l-column-full,
 .l-row {
 	@include container;
 }
 
-.l-column-8 {
-	@include span(8 of 12);
+.l-column-3 {
+	@include span(3 of 12);
+}
+
+.l-column-3:last-child {
+	@include span(3 of 12 last);
 }
 
 .l-column-4 {
+	@include span(4 of 12);
+}
+
+.l-column-4:last-child {
 	@include span(4 of 12 last);
+
+	.c-novedades & {
+		@include span(4 of 12 last);
+	}
+}
+
+.l-column-8 {
+	@include span(8 of 12);
 }

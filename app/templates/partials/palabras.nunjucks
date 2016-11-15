@@ -15,7 +15,7 @@
 
 
         <div id="tabs-1" class="u-clearfix content">
-          <div class="l-column-4">
+          <div class="l-column-3">
 
               <h3 class="title">Anchimallén</h3>
               <p>Angélica, una mujer de poco más de treinta años, vive atormentada por la ausencia de su pequeño hijo, violado y muerto por un hombre que por fallas en el procedimiento fue dejado en libertad.</p>
@@ -23,21 +23,21 @@
               <p><a href="images/proyectos/anchimallen-01.jpg" class="open_proyectos-anchimallen" title="Ver más">Ver más</a></p>
 
           </div>
-          <div class="l-column-4">
+          <div class="l-column-3">
 
               <h3 class="title">Stephanie</h3>
               <p>Cinco jugadores... <br> Frente a una historia... <br> sobre una chica...</p>
               <p><a href="images/proyectos/stephanie-01.jpg" class="open_proyectos-stephanie">Ver más</a></p>
           </div>
 
-          <div class="l-column-4">
+          <div class="l-column-3">
 
               <h3 class="title">Asfixia</h3>
               <p>Mariano Agüero, abogado, confiesa haber matado accidentalmente durante un juego sexual a Ángela Murúa, pero los peritos no encuentran ningún rastro del crimen: no hay cuerpo, no hay huellas, Ángela Murúa es otra persona que la mujer descripta por Mariano, y está viva...</p>
               <p><a href="images/proyectos/asfixia/01.jpg" class="open_proyectos-asfixia" title="Ver más">Ver más</a></p>
           </div>
 
-          <div class="l-column-4">
+          <div class="l-column-3">
 
               <h3 class="title">Perros muertos</h3>
               <p>El tema de perros muertos entendido en función de narrativa, es decir, en términos de una personaje que desarrolla una determinada línea de acción, es "un viejo recorre a lo largo de toda una noche la ruta que conduce al aeropuerto, en busca del perro de su nieto que se ha perdido por su culpa"</p>
@@ -63,7 +63,7 @@
         </div>
 
         <div id="tabs-3" class="clearfix content">
-          <div class="l-column-3">
+          <div class="l-column-4">
 
               <h3 class="title">El reflejo</h3>
               <p>Cuando recibí su llamada, estaba tratando de bajarme “Kinky Afro” de Happy Mondays. Ya había cliqueado varios archivos pero todos aparecían en violeta, seguidos del irritante “Remotely Queued”. No sé para qué atendí; lo único que me interesaba en ese momento era escuchar “Kinky Afro”.</p>
@@ -75,7 +75,7 @@
               <p><a class="fancybox fancybox.iframe" href="palabras/narrativa/pasos-de-laura.html">Seguir leyendo</a></p>
 
           </div>
-          <div class="l-column-3">
+          <div class="l-column-4">
 
               <h3 class="title">Nirvana</h3>
               <p>Caminó sobre la arena dura, el mar se revolcaba a gritos, aplastó con los pies fríos la espuma, dejó huellas, el viento de frente traía sal y agua, le despabilaba la cara...</p>
@@ -86,7 +86,7 @@
               <p><a class="fancybox fancybox.iframe" href="palabras/narrativa/reminiscencias.html">Seguir leyendo</a></p>
 
           </div>
-          <div class="l-column-3">
+          <div class="l-column-4">
 
               <h3 class="title">Exterior Autopista Noche</h3>
               <p>El viejo regresa bordeando la ruta, con el puente a sus es­paldas cuando, sorpresivamente, un auto se detiene sobre la banquina junto a él. El viejo mira con asombro el vehículo, un moderno Mer­cedes Benz de línea clásica, color negro y vidrios polari­zados.</p>
@@ -100,7 +100,7 @@
 
         <div id="tabs-4" class="clearfix content">
 
-          <div class="l-column-4">
+          <div class="l-column-3">
               <ul>
                 <li><h3 class="title">Cerdos</h3><p><a class="fancybox fancybox.iframe" href="palabras/letras/cerdos.html">Leer letras</a></p>
                 <li><h3 class="title">Reggae#once</h3><p><a class="fancybox fancybox.iframe" href="palabras/letras/reggae-once.html">Leer letras</a></p>
@@ -112,7 +112,7 @@
               </ul>
 
           </div>
-          <div class="l-column-4">
+          <div class="l-column-3">
 
               <ul>
                 <li><h3 class="title">Mind detour</h3><p><a class="fancybox fancybox.iframe" href="palabras/letras/mind-detour.html">Leer letras</a></p>
@@ -125,7 +125,7 @@
               </ul>
 
           </div>
-          <div class="l-column-4">
+          <div class="l-column-3">
 
               <ul>
                 <li><h3 class="title">I can only wait</h3><p><a class="fancybox fancybox.iframe" href="palabras/letras/i-can-only-wait.html">Leer letras</a></p>
@@ -138,7 +138,7 @@
               </ul>
 
           </div>
-          <div class="l-column-4">
+          <div class="l-column-3">
 
               <ul>
                 <li><h3 class="title">I'm gone</h3><p><a class="fancybox fancybox.iframe" href="palabras/letras/im-gone.html">Leer letras</a></p>
@@ -154,7 +154,7 @@
         </div>
 
         <div id="tabs-5" class="clearfix content">
-          <div class="l-column-4">
+          <div class="l-column-3">
 
               <h3 class="title">Carnaval</h3>
               <p>Pasan las comparsas <br>
@@ -170,7 +170,7 @@
               <p><a class="fancybox fancybox.iframe" href="palabras/poesias/llovio.html">Seguir leyendo</a></p>
 
           </div>
-          <div class="l-column-4">
+          <div class="l-column-3">
 
               <h3 class="title">Todo</h3>
               <p>Todos los pasos <br>
@@ -186,7 +186,7 @@
               <p><a class="fancybox fancybox.iframe" href="palabras/poesias/suburbios.html">Seguir leyendo</a></p>
 
           </div>
-          <div class="l-column-4">
+          <div class="l-column-3">
 
               <h3 class="title">Fin de año</h3>
               <p>De muertos <br>
@@ -203,7 +203,7 @@
               <p><a class="fancybox fancybox.iframe" href="palabras/poesias/tristeza.html">Seguir leyendo</a></p>
 
           </div>
-          <div class="l-column-4 last">
+          <div class="l-column-3 last">
 
               <h3 class="title">Placebo</h3>
               <p>Algo</p>
