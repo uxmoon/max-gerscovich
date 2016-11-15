@@ -1,333 +1,334 @@
-<div id="seccion-07" class="seccion c-biografia  bg-light  bg-light--textured">
-  <div class="story">
+<div id="biografia" class="c-biografia  bg-light  bg-light--textured">
 
-    <h2>Biografía</h2>
+  <h2>Biografía</h2>
 
-    <div class="l-container">
+  <div class="l-container">
 
-      <div id="tabs-biografia" class="c-bio__about">
-        
-        <ul class="c-tabs  c-tabs--dark">
-          <li class="c-tabs__item"><a href="#tabs-6" title="Reseña">Reseña</a></li>
-          <li class="c-tabs__item"><a href="#tabs-7" title="Estudios">Estudios</a></li>
-          <li class="c-tabs__item"><a href="#tabs-8" title="Premios">Premios</a></li>
-          <li class="c-tabs__item"><a href="#tabs-9" title="Destacado">Destacado</a></li>
-        </ul>
+    <div id="tabs-biografia" class="c-bio__about">
 
-        <div id="tabs-6">
-          <div id="slider-bio" class="flexslider">
-            <ul class="slides">
-              <li>
-                <p>Nací en Buenos Aires, capital de Argentina, poco menos de un mes después de que Neil Alden Armstrong diera un gran paso para la humanidad en la Luna, sólo dos días después de que el clan Manson matara a una de las mujeres más lindas de Hollywood, y en el año en que empezaron a separarse los Beatles. Soy hijo de un matrimonio de clase media porteña, ambos profesionales  y profesores universitarios (mi mamá historiadora del arte y mi papá abogado). Fui inmediatamente muy querido y, hasta el día de hoy, sigue siendo mi familia, de ascendencia rusa e italiana, la que me sigue soportando incondicionalmente como el primer día que llegué  a sus vidas, hinchado, gris-azulado y exhausto por complicaciones en el parto.</p>
-                <a class="open_fancybox" href="images/biografia/galeria/biografia-01.jpg">
-                  <img src="images/biografia/biografia-01.jpg">
-                </a>
-              </li>
-              <li>
-                <a class="open_fancybox" href="images/biografia/galeria/biografia-01.jpg">
-                  <img src="images/biografia/biografia-02.jpg">
-                </a>
-                <p>Soy también un producto de la educación estatal argentina: la primaria en Villa Crespo, un barrio de mayoría judía de Buenos Aires, luego vino el más venerado que venerable Colegio Nacional de Buenos Aires, un breve paso por la carrera de Filosofía en la Universidad de Buenos Aires y por la Escuela Superior de Bellas Artes Ernesto de la Cárcova, para finalmente recibirme de director de fotografía en la escuela de cine del Instituto Nacional de Cine y Artes Audiovisuales de la Argentina, donde aprendí a amar el cine y a renegar de quienes lo hacen.</p>
-              </li>
-              <li>
-                <p>Gané mi primer premio internacional a los diecinueve años y, a lo largo de dos décadas y media, recibí menos de los que ese comienzo auspicioso había augurado, dato más que elocuente en una época superpoblada de jurados. Pero sí hay uno que guardo -literalmente- con mucho orgullo, y es el que me dieron mis compañeros del último grado de la escuela primaria, cuando me eligieron mejor compañero. Un premio que en realidad fue el corolario de un año en el que promoví con la mayor de las inconsciencias la creación de algo así como un centro de estudiantes naif, del que fui electo también presidente y que fue asombrosamente permitido, en un tiempo, el penúltimo año de la peor dictadura militar argentina, en el que algo así era insólito para una escuela primaria y en el que hasta los centros de estudiantes universitarios estaban prohibidos.</p>
-                <a class="open_fancybox" href="images/biografia/galeria/biografia-01.jpg">
-                  <img src="images/biografia/biografia-03.jpg">
-                </a>
-              </li>
-              <li>
-                <a class="open_fancybox" href="images/biografia/galeria/biografia-01.jpg">
-                  <img src="images/biografia/biografia-04.jpg">
-                </a>
-                <p>Entre los hechos más relevantes de mi vida sólo voy a mencionar el sucedido a bordo de un barco que pretendía ser un crucero pero cuyo rasgo más destacado era mantenerse a flote. Iba rumbo a las Cataratas del Iguazú. Yo tenía creo que nueve años y me enamoré por primera vez. Ella era grande, tendría doce. En un improvisado baile de disfraces aún más improvisados, me rechazó. Se llamaba Dolores. A partir de esa experiencia, tomé nota de las pocas chances de levantarse a una chica que tiene uno, sobre todo si lleva puestas las pantimedias rojas de su mamá. En lo sucesivo cambié mi vestuario, pero no logré dejar de ser rechazado, tema sobre el cual creo que gira casi toda mi producción artística. </p>
-              </li>
-            </ul>
-          </div>
-        </div>
-        <div id="tabs-7">
-          <div id="slider-education" class="flexslider">
-            <ul class="slides">
-              <li>
-                <h3 class="title">Títulos oficiales</h3>
-                <ul class="list">
-                  <li><strong>Bachiller</strong>, Colegio Nacional de Buenos Aires (UBA), 1988</li>
-                  <li><strong>Director de Fotografía</strong>, Escuela Nacional de Experimentación y Realización Cinematográfica (ENERC), Instituto Nacional de Cine y Artes Audiovisuales, 1994</li>
-                </ul>
-                <h3 class="title">Talleres y Seminarios cursados</h3>
-                <ul class="list">
-                  <li><strong>Emprending</strong>, Facultad de Ingeniería, UBA, 2013.</li>
-                  <li><strong>Wayra Talks</strong>, Cómo crear una App exitosa para los principales markets, por José Ugarte, Director de Orugga, 2012.</li>
-                  <li><strong>Programa Superior de Gestión de Empresas y Negocios  Audiovisuales</strong>, organizado por Buenos Aires Comunicación y Opción Audiovisual, Gobierno de la Ciudad De Buenos Aires, 2012.</li>
-                  <li><strong>Programa Desarrollo Emprendedor</strong> del Gobierno de la Ciudad de Buenos Aires (Sede UTN), 2012</li>
-                </ul>
-              </li>
-              <li>
-                <h3 class="title">Talleres y Seminarios cursados (cont.)</h3>
-                <ul class="list">
-                  <li><strong>Programa de Orientación al Emprendedor y Programa de Asesoramiento CMD </strong>(Centro Metropolitano de Diseño), Gobierno de la Ciudad de Buenos Aires, 2012</li>
-                  <li><strong>Seminario Intensivo Lean Start Up, Emprending</strong>, Facultad de Ingeniería, UBA, 2012</li>
-                  <li><strong>Experiencia Endeavor</strong> 2012</li>
-                  <li><strong>Ciclo de Seminarios Temáticos 2012 para Emprendedores</strong> organizado por el Ministerio de Desarrollo Económico del Gobierno de la Ciudad de Buenos Aires. Asistencia, entre otros, a los talleres: Cómo conseguir inversores para tu emprendimiento dictado por Eduardo Amadeo COO - Partner en Nazca Ventures, Universidad de Belgrano; Qué hacer con la cuenta de Twitter y la de Facebook para posicionar mi producto", a cargo de Fernando Johann, IUEAN, 2012.</li>
-                  <li><strong>Desarrollo Emprendedor: Taller para armado de Planes de Negocios</strong>  dictado por Javier Villanueva de IECYT, 2012.</li>
-                </ul>
-              </li>
-              <li>
-                <h3 class="title">Tallers y Seminarios cursados (cont.)</h3>
-                <ul class="list">
-                  <li><strong>Taller de Edición</strong> en Avid y Final Cut, dictado por Alejandro Alem y Alejandro Parysow, Cuadro a Cuadro (empresa encargada de la edición de los programas y películas de Pol-Ka), 2010.</li>
-                  <li><strong>Escribir Cine</strong>, Taller de Guión para Cine dictado por Juan José Campanella y Aída Bortnik, 2010.</li>
-                  <li><strong>Seminario de Producción para Cine</strong>, Centro de Formación en Producción Cinematográfica, dictado por Diego Dubcovsky (DB Cine), Pablo Rovitto (Maíz Producciones), Hugo Castro Fau (Lagarto Cine) y Verónica Cura (Utopica Cine), 2007.</li>
-                  <li><strong>Seminario de Autores "Pablo Palant"</strong> (Taller de Guión para teatro, cine, TV y radio), Argentores, 1993.</li>
-                  <li><strong>Taller de Edición de Video</strong> a cargo de Enrique Zalcman, Escuela de Cine y Video de Rodolfo Hermida, 1990.</li>
-                  <li><strong>Lenguaje y técnica de la Videofilmación</strong>, Centro de Investigaciones y Estudios en Medios Audiovisuales y Arte, 1990.</li>
-                </ul>
-              </li>
-              <li>
-                <h3 class="title">Tallers y Seminarios cursados (cont.)</h3>
-                <ul class="list">
-                  <li><strong>Seminario de Historieta</strong>, dictado por Juan Sasturain y Alberto Breccia, Centro Cultural General San Martín, 1988.</li>
-                  <li><strong>Introducción a la Historia del Cine</strong>, dictado por Jorge La Ferla, Colegio Nacional de Buenos Aires, 1987.</li>
-                  <li><strong>Laboratorio de Informática</strong> (Programación en lenguajes Logo y Basic), Colegio Nacional de Buenos Aires, 1983-1985.</li>
-                </ul>
-                <h3 class="title">Otros estudios</h3>
-                <ul class="list">
-                  <li>Ciclo Básico Común, UBA, 1988</li>
-                  <li>Primer año, Carrera de Filosofía, Facultad de Filosofía y Letras, UBA, 1989</li>
-                  <li>Escenografía, Examen de Ingreso (1 mes de duración) y Primer Año, Escuela Superior de Bellas Artes de La Nación "Ernesto de la Cárcova", 1991</li>
-                </ul>
-              </li>
-            </ul>
-          </div>
-        </div>
-        <div id="tabs-8">
-          <div id="slider-premios" class="flexslider">
-            <ul class="slides">
-              <li>
-                <ul>
-                  <li class="premio premio-01">
-                  <img src="images/premios/premios-01.jpg">
+      <ul class="c-tabs  c-tabs--dark">
+        <li class="c-tabs__item"><a href="#tabs-6" title="Reseña">Reseña</a></li>
+        <li class="c-tabs__item"><a href="#tabs-7" title="Estudios">Estudios</a></li>
+        <li class="c-tabs__item"><a href="#tabs-8" title="Premios">Premios</a></li>
+        <li class="c-tabs__item"><a href="#tabs-9" title="Destacado">Destacado</a></li>
+      </ul>
 
-                  Premio al <strong>Mejor Guión de Cine</strong>. <br>
-                  Primera Bienal Iberoamericana de Arte Joven, Buenos Aires 1989.  <br>
-                  Único premio destinado a un guión de cine para su realización producida por el Instituto Nacional de Cine.</li>
-                  <li class="premio premio-02">
-                  <img src="images/premios/premios-02.jpg">
-                  Premio <strong>Medalla de Plata</strong>, Concurso XXV Aniversario de la Escuela Panamericana de Arte, concedido por la Asociación Internacional de Críticos de Arte, Sección Argentina, 1989. La lista de artistas seleccionados en este concurso de carácter latinoamericano incluye a: Carlos Nine, Luis Benedit, Remo Bianchedi, Crist, Luis Zeminian (Brasil), entre otros autores de reconocida trayectoria.</li>
-                </ul>
-              </li>
-              <li>
-                <ul>
-                  <li class="premio premio-03">
-                  <img src="images/premios/premios-03.jpg">
-                  <strong>Premio de Coproducción</strong>, por el cortometraje El Encuentro, Buenos Aires no duerme '98. Único trabajo de cine seleccionado por la Secretaría de Cultura del Gobierno de la Ciudad de Buenos Aires para ser coproducido en el marco de aquella muestra, consistente en la provisión de los elementos de postproducción necesarios para su finalización en 35 mm.</li>
-                  <li class="premio premio-04">
-                  <img src="images/premios/premios-04.jpg">
-                  <strong>Primer Premio al Mejor Cortometraje</strong> por El Encuentro, Festival Internacional de Cine y Televisión de Ginebra "Cinema Tout Ecran", Suiza, 1999. Premio concedido por la SSA (Sociedad Suiza de Autores). La muestra estuvo integrada por 60 cortometrajes, en su mayoría coproducidos por Canal +, entre los que participó el ganador del Oscar 1999 "Valgaften (Election night)" con Ulrich Thomsen (La Celebración); "Desserts" con Ewan MacGregor (Trainspoting, Episode I);"Ruleta" Selección Oficial Cannes 1999, con Aitana Sanchez Gijón, Loles León, Mirta Ibarra; "Rien Dire" dirigida por Vincent Perez (Entrevista Con Un Vampiro)</li>
-                </ul>
-              </li>
-              <li>
-                <ul>
-                  <li class="premio premio-05">
-                  <img src="images/premios/premios-05.jpg">
-                  <strong>Proyecto ganador del Concurso de Telefilms</strong> con El Juicio de Dios, adaptación del cuento de Antonio Di Benedetto. Instituto Nacional de Cine y Artes Audiovisuales y Canal 7, 2001.</li>
-                  <li class="premio premio-06">
-                  <img src="images/premios/premios-06.jpg">
-                  <strong>Premio al Mejor Director</strong> por Stephanie, Competencia Internacional New York International Independent Film &amp; Video Festival, 2005. <i class="icon-eye-open"></i> <a href="http://nyfilmvideo.net/content/view/183/124/" target="_blank">Lista de ganadores</a>.</li>
-                </ul>
-              </li>
-            </ul>
-          </div>
-        </div>
-        <div id="tabs-9">
-          <div id="slider-destacado" class="flexslider">
-            <ul class="slides">
-              <li>
-                <p><strong>Director, Guionista, Director de Fotografía y Montajista</strong> de <strong>Stephanie</strong>, largometraje de ficción, 80 minutos,  protagonizado por Antonio Birabent, Soledad Fandiño, Carlos Echevarría, Javier Lorenzo, Juan Minujín, Gustavo Monje,  Jimena Carati, Gaia Rosviar y Ana Federik. High Definition, 2004.</p>
-
-                <a id="single_1" href="images/biografia/poster-stephanie-full.jpg" title="Stephanie">
-                  <img src="images/biografia/poster-stephanie.jpg" alt="Stephanie">
-                </a>
-
-                <p><strong>Stephanie</strong> es uno de los primeros largometrajes que se filmaron íntegramente en HD profesional en Argentina. Estrenada el 22 de Diciembre de 2011, con amplia repercusión mediática en todos los países de habla hispana, por lo novedoso de su formato de distribución y exhibición, es el primer film de producción nacional que se lanza en forma gratuita desde su sitio web en formato de alta definición, a todo el universo on line que tenga acceso a Internet: desde una computadora, un dispositivo móvil o los nuevos televisores inteligentes. Hasta la fecha, Stephanie fue vista por 250.000 espectadores.</p>
-
-                <p class="last"><a href="http://stephaniefilm.com/" title="Stephanie Film" target="_blank">Sitio web de la película</a></p>
-              </li>
-              <li>
-                <p><strong>Director</strong> de <strong>El Encuentro</strong>, cortometraje de ficción, 23 minutos, 35 mm, 1999.</p>
-
-                <p><strong>El Encuentro</strong>, basado en un cuento de Jorge Luis Borges, fue estrenado en el ciclo Noches Especiales del BAFICI, Festival Internacional de Cine Independiente de Buenos Aires, 1999.</p>
-                <div class="poster el-encuentro"></div>
-                <img src="images/biografia/poster-el-encuentro.jpg" alt="El Encuentro">
-              </li>
-              <li>
-                <div class="poster cinema"></div>
-                <img src="images/biografia/poster-cinema.jpg" alt="Festival Internacional de Ginebra Cinema Tout Ecran">
-                <p>En 1998, aún como doble banda en video, fue seleccionado en competencia en el <strong>Festival Internacional de Santiago de Chile</strong>; en el <strong>Festival de Valdivia</strong>; en el de <abbr title="Unión de Cineistas de Paso Reducido">UNCIPAR</abbr> y en el <strong>Festival Tiempos Cortos</strong> de la Facultad de Filosofía y Letras de la UBA y proyectado en <strong>Buenos Aires No Duerme '98</strong>.</p>
-
-                <p>En 1999, en su versión final en 35mm, integró la selección oficial del <strong>Festival Internacional de Ginebra Cinema Tout Ecran</strong> obteniendo el premio al mejor cortometraje. Fue el único cortometraje fílmico de ficción de Argentina seleccionado para la competencia oficial en el XXI <strong>Festival del Nuevo Cine Latinoamericano de La Habana</strong>, Cuba. El afiche de El Encuentro llegó a la instancia final de selección junto a otros veinte entre más de doscientas películas presentadas, integrando la Exposición de Afiches en Concurso. En noviembre de este mismo año, El Encuentro es proyectado en la inauguración oficial de la muestra <strong>Córdoba Audiovisual</strong> e invitado el realizador para la ceremonia de apertura.</p>
-
-                <p>También integró dos ciclos: el de <strong>Cine Argentino Inédito</strong> desarrollado en el cine Atlas Recoleta organizado por la revista "Film" y otro de <strong>Cine Latinoamericano</strong> en el nuevo Centro Cultural Plaza Defensa en la Ciudad de Buenos Aires. En calidad de finalista del <strong>Concurso Hoyts General Cinema</strong> y el canal Volver, fue invitado al programa "El Acomodador" donde se exhibió el cortometraje. <br> <em>El Encuentro</em>, integró las muestras de cine argentino en Porto Alegre, Brasil, y en Israel.</p>
-              </li>
-              <li>
-                <p><strong>Otros trabajos</strong></p>
-                <ul class="list">
-                  <li>Director, Director de Fotografía, Guionista y Productor de C2, cortometraje de ficción de 23 minutos, 1991.</li>
-                  <li>Director y cámara del <strong>Making</strong> del film Donde estás amor de mi vida que no te puedo encontrar de Juan José Jusid. Emitido como material de promoción de la película en Canal 13 y Canal 9, 1992.</li>
-                  <li>Director y dirección de fotografía de <strong>Mezcalina</strong>, videoclip independiente rodado en 16mm. Emitido por Muchmusic, 1994</li>
-                  <li>Director y dirección de fotografía de <strong>Por derecho propio</strong>, programa piloto educativo para la Facultad de Derecho de la Universidad de Buenos Aires, 1994.</li>
-                  <li>Director y dirección de fotografía de <strong>El Show de Anselmo</strong>, programa de crítica cultural y política en formato de ficción. Emitido por Artecanal de Cablevisión, temporada 1995.</li>
-                </ul>
-              </li>
-              <li>
-                <p><strong>Otros trabajos</strong> (cont.)</p>
-                <ul class="list">
-                  <li>Director y dirección de fotografía de <strong>Vacamundi Tonight</strong>, cuatro emisiones en el ciclo 1996 por Artecanal de Cablevisión.</li>
-                  <li>Director y dirección de fotografía de <strong>Revolución</strong>, videoclip grabado en video digital. Emitido por Muchmusic, 1998.</li>
-                  <li>Director y dirección de fotografía de <strong>Parece Mentira</strong>, videoclip grabado en video digital. Emitido por  MTV y Muchmusic, 2005.</li>
-                  <li>Director y guionista de <strong>This Love</strong>, videominuto realizado en formato digital. Finalista del Concurso 64" organizado por Haciendo Cine, 2006. </li>
-                  <li>Director, Director de Fotografía, Cámara y Productor de <strong>You</strong>, videoclip, HD, 2008.</li>
-                  <li>Director y Productor de <strong>Stingin' Tears</strong>, videoclip realizado en los estudios Stratosphere de New York, filmado en HD por Zack Snygg, 2010.</li>
-                </ul>
-              </li>
-              <li>
-                <p><strong>Como Director de Fotografía</strong></p>
-
-                <ul class="list">
-                  <li><strong>El ciclista</strong>, cortometraje, dirigido por Juan Pablo Astié. Tesis de grado ENERC. 16mm, 1994</li>
-                  <li><strong>Guardaespaldas</strong>, programa piloto para la cadena Telemundo de Estados Unidos. Dirigido por Pat Johnson, director de escenas de acción en "Vivir y morir en Los Angeles" de Wiliam Friedkin, "Karate Kid" de John Avildsen, entre otras. Betacam SP, 1996</li>
-                  <li><strong>Dreams de otro planeta</strong>, programa piloto. Betacam SP, 1996</li>
-                  <li><strong>Comerciales para la campaña de Chat-Line</strong>. Betacam SP, 1996</li>
-                  <li><strong>Comunicado Pop</strong>, programa emitido por ATC. Betacam SP, 1997</li>
-                  <li>Dirección de fotografía en cortometrajes de la ENERC y del ISER, 1990-1998</li>
-                </ul>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-
-
-    <div class="one_third prensa related last c-bio__press">
-
-      <h3 class="title">Prensa</h3>
-      <div id="articles" class="nano">
-        <div class="content">
-          <ul>
-
+      <div id="tabs-6">
+        <div id="slider-bio" class="flexslider">
+          <ul class="slides">
             <li>
-              <h4 class="note-title"><a href="images/prensa/pagina-12-parte-01.jpg" id="open_prensa-medio" title="El medio ya no es la pantalla">"El medio ya no es la pantalla"</a></h4>
-              <p class="date">Página 12</p>
-            </li>
-
-            <li>
-              <h4 class="note-title"><a href="images/prensa/tiempo-argentino-parte-01.jpg" id="open_prensa-otro-medio" title="Películas por internet: otro medio de exhibición">Películas por internet: otro medio de exhibición</a></h4>
-              <p class="date">24/01/2012 - Tiempo Argentino (Suplemento espectáculos)</p>
+              <p>Nací en Buenos Aires, capital de Argentina, poco menos de un mes después de que Neil Alden Armstrong diera un gran paso para la humanidad en la Luna, sólo dos días después de que el clan Manson matara a una de las mujeres más lindas de Hollywood, y en el año en que empezaron a separarse los Beatles. Soy hijo de un matrimonio de clase media porteña, ambos profesionales  y profesores universitarios (mi mamá historiadora del arte y mi papá abogado). Fui inmediatamente muy querido y, hasta el día de hoy, sigue siendo mi familia, de ascendencia rusa e italiana, la que me sigue soportando incondicionalmente como el primer día que llegué  a sus vidas, hinchado, gris-azulado y exhausto por complicaciones en el parto.</p>
+              <a class="open_fancybox" href="images/biografia/galeria/biografia-01.jpg">
+                <img src="images/biografia/biografia-01.jpg">
+              </a>
             </li>
             <li>
-              <h4 class="note-title"><a href="images/prensa/tiempo-argentino-tapa-parte-01.jpg" id="open_prensa-polemica" title="La polémica por el cine en la Web">La polémica por el cine en la Web</a></h4>
-              <p class="date">24/01/2012 - Tiempo Argentino (Tapa suplemento Espectáculos)</p>
-            </li>
-
-            <li>
-              <h4 class="note-title"><a href="images/prensa/ambito.jpg" id="prensa-02" title="Cineasta prefiere Cuevana antes que una sala">Cineasta prefiere Cuevana antes que una sala</a></h4>
-              <p class="date">Ámbito</p>
-            </li>
-
-            <li>
-              <h4 class="note-title"><a href="images/prensa/colombo-2012.jpg" id="open_prensa-debate-2012" title="¿Un nuevo comienzo?">¿Un nuevo comienzo?</a></h4>
-              <p class="date">31/12/2011 - Revista Debate</p>
-            </li>
-
-            <li>
-              <h4 class="note-title"><a href="images/prensa/la-nacion.jpg" id="prensa-08" title="Debut on line">Debut on line</a></h4>
-              <p class="date">La Nación - 23/12/2011</p>
-            </li>
-
-            <li>
-              <h4 class="note-title"><a href="images/prensa/clarin.jpg" id="prensa-03" title="Por internet">Por internet</a></h4>
-              <p class="date">Clarín</p>
-            </li>
-
-            <li>
-              <h4 class="note-title"><a href="images/prensa/la-nacion-23-12-2011.jpg" id="open_prensa-lo-que-dejo" title="Lo que dejo el año que se va">Lo que dejo el año que se va</a></h4>
-              <p class="date">23/12/2011 - La Nación</p>
-            </li>
-
-            <li>
-              <h4 class="note-title"><a href="images/prensa/escribiendo-cine-parte-01.jpg" id="open_prensa-escribiendo-cine" title="'Cuevana es una opción para que el público acceda a los trabajos que no cuentan con ninguna posibilidad de ser exhibidos comercialmente'">"Cuevana es una opción para que el público acceda a los trabajos que no cuentan con ninguna posibilidad de ser exhibidos comercialmente"</a></h4>
-              <p class="date">Diciembre 2011 - Revista Escribiendo Cine</p>
-            </li>
-
-            <li>
-              <h4 class="note-title"><a href="images/prensa/el-cronista-20-12-2011.jpg" id="open_prensa-el-cronista" title="Film nacional "Stephanie" ya fue visto en Cuevana por 80 mil espectadores">Film nacional "Stephanie" ya fue visto en Cuevana por 80 mil espectadores</a></h4>
-              <p class="date">30/12/2011 - El Cronista</p>
+              <a class="open_fancybox" href="images/biografia/galeria/biografia-01.jpg">
+                <img src="images/biografia/biografia-02.jpg">
+              </a>
+              <p>Soy también un producto de la educación estatal argentina: la primaria en Villa Crespo, un barrio de mayoría judía de Buenos Aires, luego vino el más venerado que venerable Colegio Nacional de Buenos Aires, un breve paso por la carrera de Filosofía en la Universidad de Buenos Aires y por la Escuela Superior de Bellas Artes Ernesto de la Cárcova, para finalmente recibirme de director de fotografía en la escuela de cine del Instituto Nacional de Cine y Artes Audiovisuales de la Argentina, donde aprendí a amar el cine y a renegar de quienes lo hacen.</p>
             </li>
             <li>
-              <h4 class="note-title"><a href="images/prensa/cronista.jpg" id="prensa-06" title="Cuevana estrena su primera película 'legal' con una producción argentina">Cuevana estrena su primera película "legal" con una producción argentina</a></h4>
-              <p class="date">30/12/2011 - El Cronista</p>
-            </li>
-
-            <li>
-              <h4 class="note-title"><a href="images/prensa/ambito-financiero-02-01-2012.jpg" id="open_prensa-exito-en-la-web" title="Éxito en la Web">Éxito en la Web</a></h4>
-              <p class="date">02/01/2012 - Ámbito Financiero</p>
-            </li>
-
-            <li>
-              <h4 class="note-title"><a href="images/prensa/el-economista-mexico-parte-01.jpg" id="open_prensa-el-economista" title="Cuevana se domestica y reinventa su modelo">Cuevana se domestica y reinventa su modelo</a></h4>
-              <p class="date">20/12/2011 - El Economista México</p>
-            </li>
-
-            <li>
-              <h4 class="note-title"><a href="images/prensa/la-nacion-15-12-2005.jpg" id="prensa-09" title="Distinguen al director Maximiliano Gerscovich">Distinguen al director Maximiliano Gerscovich</a></h4>
-              <p class="date">15/12/2005 - La Nación </p>
-            </li>
-
-            <li>
-              <h4 class="note-title"><a href="images/prensa/haciendo-cine-mayo-2005-parte-01.jpg" id="open_prensa-haciendo-cine" title="Una mujer inolvidable">Una mujer inolvidable</a></h4>
-              <p class="date">Mayo 2005 - Revista Haciendo Cine</p>
-            </li>
-
-            <li>
-              <h4 class="note-title"><a href="images/prensa/cinemania-febrero-2005.jpg" id="prensa-11" title="Stephanie">Stephanie</a></h4>
-              <p class="date">Febrero 2005 - Revista Cinemanía </p>
-            </li>
-
-
-            <li>
-              <h4 class="note-title"><a href="images/prensa/clarin-15-12-2004.jpg" id="prensa-04" title="Antonio Birabent, de regreso al cine">Antonio Birabent, de regreso al cine</a></h4>
-              <p class="date">15/12/2004 - Clarín</p>
+              <p>Gané mi primer premio internacional a los diecinueve años y, a lo largo de dos décadas y media, recibí menos de los que ese comienzo auspicioso había augurado, dato más que elocuente en una época superpoblada de jurados. Pero sí hay uno que guardo -literalmente- con mucho orgullo, y es el que me dieron mis compañeros del último grado de la escuela primaria, cuando me eligieron mejor compañero. Un premio que en realidad fue el corolario de un año en el que promoví con la mayor de las inconsciencias la creación de algo así como un centro de estudiantes naif, del que fui electo también presidente y que fue asombrosamente permitido, en un tiempo, el penúltimo año de la peor dictadura militar argentina, en el que algo así era insólito para una escuela primaria y en el que hasta los centros de estudiantes universitarios estaban prohibidos.</p>
+              <a class="open_fancybox" href="images/biografia/galeria/biografia-01.jpg">
+                <img src="images/biografia/biografia-03.jpg">
+              </a>
             </li>
             <li>
-              <h4 class="note-title"><a href="images/prensa/clarin-24-12-2004.jpg" id="prensa-05" title="Fandiño será Stephanie">Fandiño será Stephanie</a></h4>
-              <p class="date">24/12/2004 - Clarín</p>
-            </li>
-            <li>
-              <h4 class="note-title"><a href="images/prensa/infobae-29-12-2004.jpg" id="prensa-07" title="La metamorfosis de Soledad">La metamorfosis de Soledad</a></h4>
-              <p class="date">29/12/2004 - Infobae</p>
-            </li>
-            <li>
-              <h4 class="note-title"><a href="images/prensa/gente-28-12-2004.jpg" id="prensa-12" title="De hombres...">De hombres...</a></h4>
-              <p class="date">28/12/2004 - Revista Gente</p>
-            </li>
-            <li>
-              <h4 class="note-title"><a href="images/prensa/noticias-31-12-2004.jpg" id="prensa-13" title="Doble debut">Doble debut</a></h4>
-              <p class="date">31/12/2004 - Revista Noticias</p>
-            </li>
-            <li>
-              <h4 class="note-title"><a href="images/prensa/poder-24-12-2004.jpg" id="prensa-14" title="Back de Birabent">Back de Birabent</a></h4>
-              <p class="date">24/12/2004 - Revista Poder</p>
-            </li>
-            <li>
-              <h4 class="note-title"><a href="images/prensa/semanario-22-12-2004.jpg" id="prensa-15" title="Birabent va al cine con Fandiño">Birabent va al cine con Fandiño</a></h4>
-              <p class="date">22/12/2004 - Revista Semanario</p>
-            </li>
-            <li>
-              <h4 class="note-title"><a href="images/prensa/pagina-12-bienal-1989.jpg" id="prensa-10" title="Primera Bienal de Arte Joven">Primera Bienal de Arte Joven</a></h4>
-              <p class="date">1989 - Página 12</p>
+              <a class="open_fancybox" href="images/biografia/galeria/biografia-01.jpg">
+                <img src="images/biografia/biografia-04.jpg">
+              </a>
+              <p>Entre los hechos más relevantes de mi vida sólo voy a mencionar el sucedido a bordo de un barco que pretendía ser un crucero pero cuyo rasgo más destacado era mantenerse a flote. Iba rumbo a las Cataratas del Iguazú. Yo tenía creo que nueve años y me enamoré por primera vez. Ella era grande, tendría doce. En un improvisado baile de disfraces aún más improvisados, me rechazó. Se llamaba Dolores. A partir de esa experiencia, tomé nota de las pocas chances de levantarse a una chica que tiene uno, sobre todo si lleva puestas las pantimedias rojas de su mamá. En lo sucesivo cambié mi vestuario, pero no logré dejar de ser rechazado, tema sobre el cual creo que gira casi toda mi producción artística. </p>
             </li>
           </ul>
         </div>
       </div>
+      <div id="tabs-7">
+        <div id="slider-education" class="flexslider">
+          <ul class="slides">
+            <li>
+              <h3 class="title">Títulos oficiales</h3>
+              <ul class="list">
+                <li><strong>Bachiller</strong>, Colegio Nacional de Buenos Aires (UBA), 1988</li>
+                <li><strong>Director de Fotografía</strong>, Escuela Nacional de Experimentación y Realización Cinematográfica (ENERC), Instituto Nacional de Cine y Artes Audiovisuales, 1994</li>
+              </ul>
+              <h3 class="title">Talleres y Seminarios cursados</h3>
+              <ul class="list">
+                <li><strong>Emprending</strong>, Facultad de Ingeniería, UBA, 2013.</li>
+                <li><strong>Wayra Talks</strong>, Cómo crear una App exitosa para los principales markets, por José Ugarte, Director de Orugga, 2012.</li>
+                <li><strong>Programa Superior de Gestión de Empresas y Negocios  Audiovisuales</strong>, organizado por Buenos Aires Comunicación y Opción Audiovisual, Gobierno de la Ciudad De Buenos Aires, 2012.</li>
+                <li><strong>Programa Desarrollo Emprendedor</strong> del Gobierno de la Ciudad de Buenos Aires (Sede UTN), 2012</li>
+              </ul>
+            </li>
+            <li>
+              <h3 class="title">Talleres y Seminarios cursados (cont.)</h3>
+              <ul class="list">
+                <li><strong>Programa de Orientación al Emprendedor y Programa de Asesoramiento CMD </strong>(Centro Metropolitano de Diseño), Gobierno de la Ciudad de Buenos Aires, 2012</li>
+                <li><strong>Seminario Intensivo Lean Start Up, Emprending</strong>, Facultad de Ingeniería, UBA, 2012</li>
+                <li><strong>Experiencia Endeavor</strong> 2012</li>
+                <li><strong>Ciclo de Seminarios Temáticos 2012 para Emprendedores</strong> organizado por el Ministerio de Desarrollo Económico del Gobierno de la Ciudad de Buenos Aires. Asistencia, entre otros, a los talleres: Cómo conseguir inversores para tu emprendimiento dictado por Eduardo Amadeo COO - Partner en Nazca Ventures, Universidad de Belgrano; Qué hacer con la cuenta de Twitter y la de Facebook para posicionar mi producto", a cargo de Fernando Johann, IUEAN, 2012.</li>
+                <li><strong>Desarrollo Emprendedor: Taller para armado de Planes de Negocios</strong>  dictado por Javier Villanueva de IECYT, 2012.</li>
+              </ul>
+            </li>
+            <li>
+              <h3 class="title">Tallers y Seminarios cursados (cont.)</h3>
+              <ul class="list">
+                <li><strong>Taller de Edición</strong> en Avid y Final Cut, dictado por Alejandro Alem y Alejandro Parysow, Cuadro a Cuadro (empresa encargada de la edición de los programas y películas de Pol-Ka), 2010.</li>
+                <li><strong>Escribir Cine</strong>, Taller de Guión para Cine dictado por Juan José Campanella y Aída Bortnik, 2010.</li>
+                <li><strong>Seminario de Producción para Cine</strong>, Centro de Formación en Producción Cinematográfica, dictado por Diego Dubcovsky (DB Cine), Pablo Rovitto (Maíz Producciones), Hugo Castro Fau (Lagarto Cine) y Verónica Cura (Utopica Cine), 2007.</li>
+                <li><strong>Seminario de Autores "Pablo Palant"</strong> (Taller de Guión para teatro, cine, TV y radio), Argentores, 1993.</li>
+                <li><strong>Taller de Edición de Video</strong> a cargo de Enrique Zalcman, Escuela de Cine y Video de Rodolfo Hermida, 1990.</li>
+                <li><strong>Lenguaje y técnica de la Videofilmación</strong>, Centro de Investigaciones y Estudios en Medios Audiovisuales y Arte, 1990.</li>
+              </ul>
+            </li>
+            <li>
+              <h3 class="title">Tallers y Seminarios cursados (cont.)</h3>
+              <ul class="list">
+                <li><strong>Seminario de Historieta</strong>, dictado por Juan Sasturain y Alberto Breccia, Centro Cultural General San Martín, 1988.</li>
+                <li><strong>Introducción a la Historia del Cine</strong>, dictado por Jorge La Ferla, Colegio Nacional de Buenos Aires, 1987.</li>
+                <li><strong>Laboratorio de Informática</strong> (Programación en lenguajes Logo y Basic), Colegio Nacional de Buenos Aires, 1983-1985.</li>
+              </ul>
+              <h3 class="title">Otros estudios</h3>
+              <ul class="list">
+                <li>Ciclo Básico Común, UBA, 1988</li>
+                <li>Primer año, Carrera de Filosofía, Facultad de Filosofía y Letras, UBA, 1989</li>
+                <li>Escenografía, Examen de Ingreso (1 mes de duración) y Primer Año, Escuela Superior de Bellas Artes de La Nación "Ernesto de la Cárcova", 1991</li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div id="tabs-8">
+        <div id="slider-premios" class="flexslider">
+          <ul class="slides">
+            <li>
+              <ul>
+                <li class="premio premio-01">
+                  <img src="images/premios/premios-01.jpg">
+
+                  Premio al <strong>Mejor Guión de Cine</strong>. <br>
+                  Primera Bienal Iberoamericana de Arte Joven, Buenos Aires 1989.  <br>
+                  Único premio destinado a un guión de cine para su realización producida por el Instituto Nacional de Cine.
+                </li>
+                <li class="premio premio-02">
+                  <img src="images/premios/premios-02.jpg">
+                  Premio <strong>Medalla de Plata</strong>, Concurso XXV Aniversario de la Escuela Panamericana de Arte, concedido por la Asociación Internacional de Críticos de Arte, Sección Argentina, 1989. La lista de artistas seleccionados en este concurso de carácter latinoamericano incluye a: Carlos Nine, Luis Benedit, Remo Bianchedi, Crist, Luis Zeminian (Brasil), entre otros autores de reconocida trayectoria.
+                </li>
+              </ul>
+            </li>
+            <li>
+              <ul>
+                <li class="premio premio-03">
+                  <img src="images/premios/premios-03.jpg">
+                  <strong>Premio de Coproducción</strong>, por el cortometraje El Encuentro, Buenos Aires no duerme '98. Único trabajo de cine seleccionado por la Secretaría de Cultura del Gobierno de la Ciudad de Buenos Aires para ser coproducido en el marco de aquella muestra, consistente en la provisión de los elementos de postproducción necesarios para su finalización en 35 mm.
+                </li>
+                <li class="premio premio-04">
+                  <img src="images/premios/premios-04.jpg">
+                  <strong>Primer Premio al Mejor Cortometraje</strong> por El Encuentro, Festival Internacional de Cine y Televisión de Ginebra "Cinema Tout Ecran", Suiza, 1999. Premio concedido por la SSA (Sociedad Suiza de Autores). La muestra estuvo integrada por 60 cortometrajes, en su mayoría coproducidos por Canal +, entre los que participó el ganador del Oscar 1999 "Valgaften (Election night)" con Ulrich Thomsen (La Celebración); "Desserts" con Ewan MacGregor (Trainspoting, Episode I);"Ruleta" Selección Oficial Cannes 1999, con Aitana Sanchez Gijón, Loles León, Mirta Ibarra; "Rien Dire" dirigida por Vincent Perez (Entrevista Con Un Vampiro).
+                </li>
+              </ul>
+            </li>
+            <li>
+              <ul>
+                <li class="premio premio-05">
+                  <img src="images/premios/premios-05.jpg">
+                  <strong>Proyecto ganador del Concurso de Telefilms</strong> con El Juicio de Dios, adaptación del cuento de Antonio Di Benedetto. Instituto Nacional de Cine y Artes Audiovisuales y Canal 7, 2001.
+                </li>
+                <li class="premio premio-06">
+                  <img src="images/premios/premios-06.jpg">
+                  <strong>Premio al Mejor Director</strong> por Stephanie, Competencia Internacional New York International Independent Film &amp; Video Festival, 2005. <i class="icon-eye-open"></i> <a href="http://nyfilmvideo.net/content/view/183/124/" target="_blank">Lista de ganadores</a>.
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div id="tabs-9">
+        <div id="slider-destacado" class="flexslider">
+          <ul class="slides">
+            <li>
+              <p><strong>Director, Guionista, Director de Fotografía y Montajista</strong> de <strong>Stephanie</strong>, largometraje de ficción, 80 minutos,  protagonizado por Antonio Birabent, Soledad Fandiño, Carlos Echevarría, Javier Lorenzo, Juan Minujín, Gustavo Monje,  Jimena Carati, Gaia Rosviar y Ana Federik. High Definition, 2004.</p>
+
+              <a id="single_1" href="images/biografia/poster-stephanie-full.jpg" title="Stephanie">
+                <img src="images/biografia/poster-stephanie.jpg" alt="Stephanie">
+              </a>
+
+              <p><strong>Stephanie</strong> es uno de los primeros largometrajes que se filmaron íntegramente en HD profesional en Argentina. Estrenada el 22 de Diciembre de 2011, con amplia repercusión mediática en todos los países de habla hispana, por lo novedoso de su formato de distribución y exhibición, es el primer film de producción nacional que se lanza en forma gratuita desde su sitio web en formato de alta definición, a todo el universo on line que tenga acceso a Internet: desde una computadora, un dispositivo móvil o los nuevos televisores inteligentes. Hasta la fecha, Stephanie fue vista por 250.000 espectadores.</p>
+
+              <p class="last"><a href="http://stephaniefilm.com/" title="Stephanie Film" target="_blank">Sitio web de la película</a></p>
+            </li>
+            <li>
+              <p><strong>Director</strong> de <strong>El Encuentro</strong>, cortometraje de ficción, 23 minutos, 35 mm, 1999.</p>
+
+              <p><strong>El Encuentro</strong>, basado en un cuento de Jorge Luis Borges, fue estrenado en el ciclo Noches Especiales del BAFICI, Festival Internacional de Cine Independiente de Buenos Aires, 1999.</p>
+              <div class="poster el-encuentro"></div>
+              <img src="images/biografia/poster-el-encuentro.jpg" alt="El Encuentro">
+            </li>
+            <li>
+              <div class="poster cinema"></div>
+              <img src="images/biografia/poster-cinema.jpg" alt="Festival Internacional de Ginebra Cinema Tout Ecran">
+              <p>En 1998, aún como doble banda en video, fue seleccionado en competencia en el <strong>Festival Internacional de Santiago de Chile</strong>; en el <strong>Festival de Valdivia</strong>; en el de <abbr title="Unión de Cineistas de Paso Reducido">UNCIPAR</abbr> y en el <strong>Festival Tiempos Cortos</strong> de la Facultad de Filosofía y Letras de la UBA y proyectado en <strong>Buenos Aires No Duerme '98</strong>.</p>
+
+              <p>En 1999, en su versión final en 35mm, integró la selección oficial del <strong>Festival Internacional de Ginebra Cinema Tout Ecran</strong> obteniendo el premio al mejor cortometraje. Fue el único cortometraje fílmico de ficción de Argentina seleccionado para la competencia oficial en el XXI <strong>Festival del Nuevo Cine Latinoamericano de La Habana</strong>, Cuba. El afiche de El Encuentro llegó a la instancia final de selección junto a otros veinte entre más de doscientas películas presentadas, integrando la Exposición de Afiches en Concurso. En noviembre de este mismo año, El Encuentro es proyectado en la inauguración oficial de la muestra <strong>Córdoba Audiovisual</strong> e invitado el realizador para la ceremonia de apertura.</p>
+
+              <p>También integró dos ciclos: el de <strong>Cine Argentino Inédito</strong> desarrollado en el cine Atlas Recoleta organizado por la revista "Film" y otro de <strong>Cine Latinoamericano</strong> en el nuevo Centro Cultural Plaza Defensa en la Ciudad de Buenos Aires. En calidad de finalista del <strong>Concurso Hoyts General Cinema</strong> y el canal Volver, fue invitado al programa "El Acomodador" donde se exhibió el cortometraje. <br> <em>El Encuentro</em>, integró las muestras de cine argentino en Porto Alegre, Brasil, y en Israel.</p>
+            </li>
+            <li>
+              <p><strong>Otros trabajos</strong></p>
+              <ul class="list">
+                <li>Director, Director de Fotografía, Guionista y Productor de C2, cortometraje de ficción de 23 minutos, 1991.</li>
+                <li>Director y cámara del <strong>Making</strong> del film Donde estás amor de mi vida que no te puedo encontrar de Juan José Jusid. Emitido como material de promoción de la película en Canal 13 y Canal 9, 1992.</li>
+                <li>Director y dirección de fotografía de <strong>Mezcalina</strong>, videoclip independiente rodado en 16mm. Emitido por Muchmusic, 1994</li>
+                <li>Director y dirección de fotografía de <strong>Por derecho propio</strong>, programa piloto educativo para la Facultad de Derecho de la Universidad de Buenos Aires, 1994.</li>
+                <li>Director y dirección de fotografía de <strong>El Show de Anselmo</strong>, programa de crítica cultural y política en formato de ficción. Emitido por Artecanal de Cablevisión, temporada 1995.</li>
+              </ul>
+            </li>
+            <li>
+              <p><strong>Otros trabajos</strong> (cont.)</p>
+              <ul class="list">
+                <li>Director y dirección de fotografía de <strong>Vacamundi Tonight</strong>, cuatro emisiones en el ciclo 1996 por Artecanal de Cablevisión.</li>
+                <li>Director y dirección de fotografía de <strong>Revolución</strong>, videoclip grabado en video digital. Emitido por Muchmusic, 1998.</li>
+                <li>Director y dirección de fotografía de <strong>Parece Mentira</strong>, videoclip grabado en video digital. Emitido por  MTV y Muchmusic, 2005.</li>
+                <li>Director y guionista de <strong>This Love</strong>, videominuto realizado en formato digital. Finalista del Concurso 64" organizado por Haciendo Cine, 2006. </li>
+                <li>Director, Director de Fotografía, Cámara y Productor de <strong>You</strong>, videoclip, HD, 2008.</li>
+                <li>Director y Productor de <strong>Stingin' Tears</strong>, videoclip realizado en los estudios Stratosphere de New York, filmado en HD por Zack Snygg, 2010.</li>
+              </ul>
+            </li>
+            <li>
+              <p><strong>Como Director de Fotografía</strong></p>
+
+              <ul class="list">
+                <li><strong>El ciclista</strong>, cortometraje, dirigido por Juan Pablo Astié. Tesis de grado ENERC. 16mm, 1994</li>
+                <li><strong>Guardaespaldas</strong>, programa piloto para la cadena Telemundo de Estados Unidos. Dirigido por Pat Johnson, director de escenas de acción en "Vivir y morir en Los Angeles" de Wiliam Friedkin, "Karate Kid" de John Avildsen, entre otras. Betacam SP, 1996</li>
+                <li><strong>Dreams de otro planeta</strong>, programa piloto. Betacam SP, 1996</li>
+                <li><strong>Comerciales para la campaña de Chat-Line</strong>. Betacam SP, 1996</li>
+                <li><strong>Comunicado Pop</strong>, programa emitido por ATC. Betacam SP, 1997</li>
+                <li>Dirección de fotografía en cortometrajes de la ENERC y del ISER, 1990-1998</li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="c-bio__press">
+
+      <h3 class="title">Prensa</h3>
+      <ul>
+        <li>
+          <h4 class="note-title"><a href="images/prensa/pagina-12-parte-01.jpg" id="open_prensa-medio" title="El medio ya no es la pantalla">"El medio ya no es la pantalla"</a></h4>
+          <p class="date">Página 12</p>
+        </li>
+
+        <li>
+          <h4 class="note-title"><a href="images/prensa/tiempo-argentino-parte-01.jpg" id="open_prensa-otro-medio" title="Películas por internet: otro medio de exhibición">Películas por internet: otro medio de exhibición</a></h4>
+          <p class="date">24/01/2012 - Tiempo Argentino (Suplemento espectáculos)</p>
+        </li>
+        <li>
+          <h4 class="note-title"><a href="images/prensa/tiempo-argentino-tapa-parte-01.jpg" id="open_prensa-polemica" title="La polémica por el cine en la Web">La polémica por el cine en la Web</a></h4>
+          <p class="date">24/01/2012 - Tiempo Argentino (Tapa suplemento Espectáculos)</p>
+        </li>
+
+        <li>
+          <h4 class="note-title"><a href="images/prensa/ambito.jpg" id="prensa-02" title="Cineasta prefiere Cuevana antes que una sala">Cineasta prefiere Cuevana antes que una sala</a></h4>
+          <p class="date">Ámbito</p>
+        </li>
+
+        <li>
+          <h4 class="note-title"><a href="images/prensa/colombo-2012.jpg" id="open_prensa-debate-2012" title="¿Un nuevo comienzo?">¿Un nuevo comienzo?</a></h4>
+          <p class="date">31/12/2011 - Revista Debate</p>
+        </li>
+
+        <li>
+          <h4 class="note-title"><a href="images/prensa/la-nacion.jpg" id="prensa-08" title="Debut on line">Debut on line</a></h4>
+          <p class="date">La Nación - 23/12/2011</p>
+        </li>
+
+        <li>
+          <h4 class="note-title"><a href="images/prensa/clarin.jpg" id="prensa-03" title="Por internet">Por internet</a></h4>
+          <p class="date">Clarín</p>
+        </li>
+
+        <li>
+          <h4 class="note-title"><a href="images/prensa/la-nacion-23-12-2011.jpg" id="open_prensa-lo-que-dejo" title="Lo que dejo el año que se va">Lo que dejo el año que se va</a></h4>
+          <p class="date">23/12/2011 - La Nación</p>
+        </li>
+
+        <li>
+          <h4 class="note-title"><a href="images/prensa/escribiendo-cine-parte-01.jpg" id="open_prensa-escribiendo-cine" title="'Cuevana es una opción para que el público acceda a los trabajos que no cuentan con ninguna posibilidad de ser exhibidos comercialmente'">"Cuevana es una opción para que el público acceda a los trabajos que no cuentan con ninguna posibilidad de ser exhibidos comercialmente"</a></h4>
+          <p class="date">Diciembre 2011 - Revista Escribiendo Cine</p>
+        </li>
+
+        <li>
+          <h4 class="note-title"><a href="images/prensa/el-cronista-20-12-2011.jpg" id="open_prensa-el-cronista" title="Film nacional "Stephanie" ya fue visto en Cuevana por 80 mil espectadores">Film nacional "Stephanie" ya fue visto en Cuevana por 80 mil espectadores</a></h4>
+          <p class="date">30/12/2011 - El Cronista</p>
+        </li>
+        <li>
+          <h4 class="note-title"><a href="images/prensa/cronista.jpg" id="prensa-06" title="Cuevana estrena su primera película 'legal' con una producción argentina">Cuevana estrena su primera película "legal" con una producción argentina</a></h4>
+          <p class="date">30/12/2011 - El Cronista</p>
+        </li>
+
+        <li>
+          <h4 class="note-title"><a href="images/prensa/ambito-financiero-02-01-2012.jpg" id="open_prensa-exito-en-la-web" title="Éxito en la Web">Éxito en la Web</a></h4>
+          <p class="date">02/01/2012 - Ámbito Financiero</p>
+        </li>
+
+        <li>
+          <h4 class="note-title"><a href="images/prensa/el-economista-mexico-parte-01.jpg" id="open_prensa-el-economista" title="Cuevana se domestica y reinventa su modelo">Cuevana se domestica y reinventa su modelo</a></h4>
+          <p class="date">20/12/2011 - El Economista México</p>
+        </li>
+
+        <li>
+          <h4 class="note-title"><a href="images/prensa/la-nacion-15-12-2005.jpg" id="prensa-09" title="Distinguen al director Maximiliano Gerscovich">Distinguen al director Maximiliano Gerscovich</a></h4>
+          <p class="date">15/12/2005 - La Nación </p>
+        </li>
+
+        <li>
+          <h4 class="note-title"><a href="images/prensa/haciendo-cine-mayo-2005-parte-01.jpg" id="open_prensa-haciendo-cine" title="Una mujer inolvidable">Una mujer inolvidable</a></h4>
+          <p class="date">Mayo 2005 - Revista Haciendo Cine</p>
+        </li>
+
+        <li>
+          <h4 class="note-title"><a href="images/prensa/cinemania-febrero-2005.jpg" id="prensa-11" title="Stephanie">Stephanie</a></h4>
+          <p class="date">Febrero 2005 - Revista Cinemanía </p>
+        </li>
+
+
+        <li>
+          <h4 class="note-title"><a href="images/prensa/clarin-15-12-2004.jpg" id="prensa-04" title="Antonio Birabent, de regreso al cine">Antonio Birabent, de regreso al cine</a></h4>
+          <p class="date">15/12/2004 - Clarín</p>
+        </li>
+        <li>
+          <h4 class="note-title"><a href="images/prensa/clarin-24-12-2004.jpg" id="prensa-05" title="Fandiño será Stephanie">Fandiño será Stephanie</a></h4>
+          <p class="date">24/12/2004 - Clarín</p>
+        </li>
+        <li>
+          <h4 class="note-title"><a href="images/prensa/infobae-29-12-2004.jpg" id="prensa-07" title="La metamorfosis de Soledad">La metamorfosis de Soledad</a></h4>
+          <p class="date">29/12/2004 - Infobae</p>
+        </li>
+        <li>
+          <h4 class="note-title"><a href="images/prensa/gente-28-12-2004.jpg" id="prensa-12" title="De hombres...">De hombres...</a></h4>
+          <p class="date">28/12/2004 - Revista Gente</p>
+        </li>
+        <li>
+          <h4 class="note-title"><a href="images/prensa/noticias-31-12-2004.jpg" id="prensa-13" title="Doble debut">Doble debut</a></h4>
+          <p class="date">31/12/2004 - Revista Noticias</p>
+        </li>
+        <li>
+          <h4 class="note-title"><a href="images/prensa/poder-24-12-2004.jpg" id="prensa-14" title="Back de Birabent">Back de Birabent</a></h4>
+          <p class="date">24/12/2004 - Revista Poder</p>
+        </li>
+        <li>
+          <h4 class="note-title"><a href="images/prensa/semanario-22-12-2004.jpg" id="prensa-15" title="Birabent va al cine con Fandiño">Birabent va al cine con Fandiño</a></h4>
+          <p class="date">22/12/2004 - Revista Semanario</p>
+        </li>
+        <li>
+          <h4 class="note-title"><a href="images/prensa/pagina-12-bienal-1989.jpg" id="prensa-10" title="Primera Bienal de Arte Joven">Primera Bienal de Arte Joven</a></h4>
+          <p class="date">1989 - Página 12</p>
+        </li>
+      </ul>
+
     </div>
 
   </div>
