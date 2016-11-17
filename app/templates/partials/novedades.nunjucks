@@ -2,7 +2,7 @@
 
   <div class="l-row">
     <div class="l-column-8">
-      <div class="video-container">
+      <div class="c-video-container">
         <iframe width="640" height="480" src="//www.youtube.com/embed/Ew9RV1UU958?rel=0&amp;wmode=transparent" style="border-width: 0;" allowfullscreen></iframe>
       </div>
     </div>

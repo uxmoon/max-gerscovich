@@ -12,8 +12,13 @@
   </div>
 
 
+
+
+
   <div class="l-row">
-    <div class="l-column-4">
+    
+    <div class="l-column-4  u-align-center">
+      
       <div class="mosaic-block bar placeholder-image top">
         <a href="http://www.pinterest.com/maxigerscovich/boards/" target="_blank" class="mosaic-overlay">
           <div class="details">
@@ -24,6 +29,7 @@
           <p>Fotografía</p>
         </div>
       </div>
+      
       <div class="mosaic-block bar placeholder-image">
         <a href="http://www.pinterest.com/maxigerscovich/boards/" target="_blank" class="mosaic-overlay">
           <div class="details">
@@ -34,9 +40,15 @@
           <p>Pintura</p>
         </div>
       </div>
+
     </div>
 
-    <div class="l-column-4">
+
+
+
+
+    <div class="l-column-4  u-align-center">
+
       <div class="mosaic-block bar placeholder-image top">
         <a href="http://www.pinterest.com/maxigerscovich/boards/" target="_blank" class="mosaic-overlay">
           <div class="details">
@@ -47,6 +59,7 @@
           <p>Ilustraciones</p>
         </div>
       </div>
+
       <div class="mosaic-block bar placeholder-image">
         <a href="http://www.pinterest.com/maxigerscovich/boards/" target="_blank" class="mosaic-overlay">
           <div class="details">
@@ -57,9 +70,15 @@
           <p>Historietas</p>
         </div>
       </div>
+
     </div>
 
-    <div class="l-column-4">
+
+
+
+
+    <div class="l-column-4  u-align-center">
+
       <div class="mosaic-block bar placeholder-image top">
         <a href="http://www.pinterest.com/maxigerscovich/boards/" target="_blank" class="mosaic-overlay">
           <div class="details">
@@ -70,6 +89,7 @@
           <p>Dibujos</p>
         </div>
       </div>
+
       <div class="mosaic-block bar placeholder-image">
         <a href="http://www.pinterest.com/maxigerscovich/boards/" target="_blank" class="mosaic-overlay">
           <div class="details">
@@ -80,7 +100,9 @@
           <p>Mas trabajos</p>
         </div>
       </div>
+    
     </div>
 
   </div>
+
 </div>

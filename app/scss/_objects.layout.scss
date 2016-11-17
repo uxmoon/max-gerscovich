@@ -1,66 +1,86 @@
-$susy: (
-	container: 62.5em,
-	columns: 12,
-	gutters: 1/6
-);
-
-.l-container {
-	@include container;
-}
-
-@media (min-width: 64em) {
-	.contact__form {
-		@include span(6);
-	}
-	.contact__social {
-		@include span(4 last);
-	}
-}
-
-.l-module {
-	padding-top: rem(50);
-	padding-bottom: rem(50);
-}
-
-.l-column-full,
 .l-row {
 	@include container;
+
+	@include breakpoint($bp-desktop) {
+		@include container(62.5em 12 split);
+	}
 }
 
-@media (min-width: 48em) {
-}
+// .l-container {
+// 	@include container;
+// }
 
-@media (min-width: 62.0625em) {
-	.l-column-3 {
-		@include span(3 of 12);
-	}
+// @media (min-width: 64em) {
+// 	.contact__form {
+// 		@include span(6);
+// 	}
+// 	.contact__social {
+// 		@include span(4 last);
+// 	}
+// }
 
-	.l-column-3:last-child {
-		@include span(3 of 12 last);
-	}
+// .l-module {
+// 	padding-top: rem(50);
+// 	padding-bottom: rem(50);
+// }
+
+// .l-column-full,
+// .l-row {
+// 	@include container;
+// }
+
+// @media (min-width: 48em) {
+// }
+
+// @media (min-width: 62.0625em) {
+// 	.l-column-3 {
+// 		@include span(3 of 12);
+// 	}
+
+// 	.l-column-3:last-child {
+// 		@include span(3 of 12 last);
+// 	}
+
+@include breakpoint($bp-desktop) {
+
+ 	.l-column-3 {
+ 		@include span(3 of 12);
+ 	}
 
 	.l-column-4 {
 		@include span(4 of 12);
-	}
-
-	.l-column-4:last-child {
-		@include span(4 of 12 last);
-
-		.c-novedades & {
-			@include span(4 of 12 last);
-		}
 	}
 
 	.l-column-6 {
 		@include span(6 of 12);
 	}
 
-	.l-column-6:last-child {
-		@include span(6 of 12 last);
-	}
-
 	.l-column-8 {
 		@include span(8 of 12);
 	}
 
+}
+
+
+// 	.l-column-4:last-child {
+// 		@include span(4 of 12 last);
+
+// 		.c-novedades & {
+// 			@include span(4 of 12 last);
+// 		}
+// 	}
+
+// 	.l-column-6 {
+// 		@include span(6 of 12);
+// 	}
+
+// 	.l-column-6:last-child {
+// 		@include span(6 of 12 last);
+// 	}
+
+
+// }
+
+.u-align-center {
+	text-align: center;
 }

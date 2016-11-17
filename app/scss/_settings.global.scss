@@ -4,3 +4,20 @@ $base-line-height:  24px;
 $base-radius:       3px;
 
 $base-spacing-unit: $base-line-height;
+
+$bp-mobile: max-width 63.9375em;
+$bp-desktop: 64em;
+
+// Layout
+$susy: (
+  gutter-position: split,
+  global-box-sizing: border-box,
+  debug: (image: show)
+);
+
+
+$desktop: (
+	container: 62.5em,
+	columns: 12,
+	gutters: 1/6
+);

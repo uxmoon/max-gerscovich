@@ -2,6 +2,7 @@
   <h2>Música</h2>
 
   <div class="l-row">
+
     <div class="c-musica__intro">
 
       <p>Llegué por primera vez a Nueva York a principios de agosto de 2009 con cuatro objetivos: conocer "la mejor ciudad del mundo", pasar en esa ciudad mi cumpleaños número 40, comprarme una guitarra eléctrica y armar una banda para grabar alguno de mis temas. Conocí la mejor ciudad del mundo, pasé los 40, encontré una guitarra D'Angélico hermosa y logré grabar Stingin' Tears, un tema que se me ocurrió cuando caminaba por la vereda del Chelsea Hotel.</p>
@@ -27,7 +28,8 @@
       <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1424635607/size=medium/bgcol=ffffff/linkcol=f26c4f/transparent=true/" seamless><a href="http://saigonagogo.bandcamp.com/album/cerdos" target="_blank">Cerdos! by Saigon A Go Go</a></iframe>
 
       <div class="u-clearfix">
-        <div class="l-column-6">
+        
+        <div class="c-musica__column">
           <p><strong>Ficha técnica</strong></p>
           <ul class="list">
             <li>Compuesto y producido por Maximiliano Gerscovich</li>
@@ -47,7 +49,7 @@
           </ul>
         </div>
 
-        <div class="l-column-6">
+        <div class="c-musica__column">
           <p><strong>Mezcla y grabación</strong></p>
           <ul class="list">
             <li>Voces, piano, bandoneón y vientos grabados por Mariano Beyoglonian en Ion </li>
@@ -61,11 +63,11 @@
         </div>
       </div>
 
-      <div class="l-column-6">
+      <div class="c-musica__column">
         <p><i class="icon-music"></i> <a href="http://saigonagogo.bandcamp.com/" title="Saigon A Go Go en Bandcamp" target="_blank">Saigon A Go Go en Bandcamp</a></p>
       </div>
       
-      <div class="l-column-6">
+      <div class="c-musica__column">
         <p><i class="icon-facebook"></i> <a href="https://www.facebook.com/saigonagogo" title="Saigon A Go Go en Facebook" target="_blank"> Saigon A Go Go en Facebook</a></p>
       </div>
 

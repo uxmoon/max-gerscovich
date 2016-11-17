@@ -1,10 +1,10 @@
 <footer id="contacto" class="bg-dark  bg-dark--textured  l-module">
 
-  <div class="l-container">
+  <div class="l-row">
 
     <h2>Contacto</h2>
 
-    <div id="contact-form" class="contact__form">
+    <div id="contact-form" class="l-column-8  contact__form">
 
       <form id="contact-us" class="form" action="index.php" method="post">
         <div class="contact__item">
@@ -25,7 +25,7 @@
 
     </div>
 
-    <div class="contact__social">
+    <div class="l-column-4  contact__social">
 
       <a href="https://www.facebook.com/maximiliano.gerscovich?fref=ts" title="facebook" class="link--primary">
         <svg class="icon  icon--large  icon--colored  icon-facebook">

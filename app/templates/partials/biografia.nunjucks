@@ -2,9 +2,9 @@
 
   <h2>Biografía</h2>
 
-  <div class="l-container">
+  <div class="l-row">
 
-    <div id="tabs-biografia" class="c-bio__about">
+    <div id="tabs-biografia" class="l-column-8">
 
       <ul class="c-tabs  c-tabs--dark">
         <li class="c-tabs__item"><a href="#tabs-6" title="Reseña">Reseña</a></li>
@@ -212,7 +212,7 @@
     </div>
 
 
-    <div class="c-bio__press">
+    <div class="l-column-4">
 
       <h3 class="title">Prensa</h3>
       <ul>

@@ -2,27 +2,29 @@
 
     <h2>Emprendimientos</h2>
 
-    <div class="c-enterprises__wrap">
-      <div class="c-enterprises__media">
-        <iframe width="470" height="264" src="//www.youtube.com/embed/wSwEMwayFaA?rel=0&amp;wmode=transparent;showinfo=0;controls=0" style="border-width: 0;" allowfullscreen></iframe>
+    <div class="l-row">
+      <div class="l-column-6">
+        <div class="c-video-container">
+          <iframe width="470" height="264" src="//www.youtube.com/embed/wSwEMwayFaA?rel=0&amp;wmode=transparent;showinfo=0;controls=0" style="border-width: 0;" allowfullscreen></iframe>
+        </div>
       </div>
 
-      <div class="c-enterprises__content">
+      <div class="l-column-6">
         <p>En 2012 me sumé a esta nueva ola de emprendedores que está poblando felizmente el ecosistema de Start Ups. Mi primer proyecto fue Vidioma, que pasó la primera selección en Wayra, la aceleradora de Telefónica, quedando seleccionada junto a otras 50 de entre más de 1.200 propuestas. Mientras Vidioma iba mutando de forma, empecé a desarrollar otro emprendimiento: <strong>Argum3nt</strong> eleva a un nuevo nivel la experiencia de crear, protagonizar y ganar debates.</p>
       </div>
     </div>
 
-    <div class="c-enterprises__related">
-      <div class="c-enterprises__item">
+    <div class="l-row">
+      <div class="l-column-3">
         <img src="images/emprendimientos/vidioma-01.jpg" alt="Vidioma">
       </div>
-      <div class="c-enterprises__item">
+      <div class="l-column-3">
         <img src="images/emprendimientos/vidioma-02.jpg" alt="Vidioma">
       </div>
-      <div class="c-enterprises__item">
+      <div class="l-column-3">
         <img src="images/emprendimientos/vidioma-03.jpg" alt="Vidioma">
       </div>
-      <div class="c-enterprises__item last">
+      <div class="l-column-3">
         <img src="images/emprendimientos/vidioma-04.jpg" alt="Vidioma">
       </div>
     </div>
