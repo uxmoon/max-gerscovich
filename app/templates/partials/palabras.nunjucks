@@ -4,7 +4,7 @@
 
     <div class="l-row ">
       
-        
+      <div class="l-column-12">
         <ul class="c-tabs">
           <li class="c-tabs__item"><a href="#tabs-1" title="Proyectos">Proyectos</a></li>
           <li class="c-tabs__item"><a href="#tabs-2" title="Notas">Notas</a></li>
@@ -12,6 +12,7 @@
           <li class="c-tabs__item"><a href="#tabs-4" title="Letras">Letras</a></li>
           <li class="c-tabs__item"><a href="#tabs-5" title="Poesías">Poesías</a></li>
         </ul>
+      </div>        
 
 
         <div id="tabs-1" class="u-clearfix content">
