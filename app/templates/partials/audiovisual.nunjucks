@@ -17,32 +17,46 @@
 
   <div class="l-row">
     <div class="l-column-3">
-      <h3 class="video-title">Reel</h3>
-      <a class="various fancybox.iframe" href="http://www.youtube.com/embed/RpUoE4Y53EQ?rel=0"><img src="images/audiovisual/reel.jpg" alt="Reel" /></a>
+      <div class="c-av__item">
+        <h3 class="u-heading-small">Reel</h3>
+        <a class="various fancybox.iframe" href="http://www.youtube.com/embed/RpUoE4Y53EQ?rel=0"><img src="images/audiovisual/reel.jpg" alt="Reel" /></a>
+      </div>
 
-      <h3 class="video-title">This Love</h3>
-      <a class="various fancybox.iframe" href="http://www.youtube.com/embed/5c8MARpMYuk?rel=0"><img src="images/audiovisual/this-love.jpg" alt="This Love" /></a>
+      <div class="c-av__item">
+        <h3 class="u-heading-small">This Love</h3>
+        <a class="various fancybox.iframe" href="http://www.youtube.com/embed/5c8MARpMYuk?rel=0"><img src="images/audiovisual/this-love.jpg" alt="This Love" /></a>
+      </div>
     </div>
 
     <div class="l-column-3">
-      <h3 class="video-title">Stephanie Trailer</h3>
-      <a class="various fancybox.iframe" href="http://www.youtube.com/embed/1DDf2IgHXwI?rel=0"><img src="images/audiovisual/stephanie-trailer.jpg" alt="Stephanie Trailer" /></a>
+      <div class="c-av__item">
+        <h3 class="u-heading-small">Stephanie Trailer</h3>
+        <a class="various fancybox.iframe" href="http://www.youtube.com/embed/1DDf2IgHXwI?rel=0"><img src="images/audiovisual/stephanie-trailer.jpg" alt="Stephanie Trailer" /></a>
+      </div>
 
-      <h3 class="video-title">Mezcalina</h3>
-      <a class="various fancybox.iframe" href="http://www.youtube.com/embed/4_AtjMG_CFw?rel=0"><img src="images/audiovisual/mezcalina.jpg" alt="Mezcalina" /></a>
+      <div class="c-av__item">
+        <h3 class="u-heading-small">Mezcalina</h3>
+        <a class="various fancybox.iframe" href="http://www.youtube.com/embed/4_AtjMG_CFw?rel=0"><img src="images/audiovisual/mezcalina.jpg" alt="Mezcalina" /></a>
+      </div>
     </div>
 
     <div class="l-column-3">
-      <h3 class="video-title">Stephanie</h3>
-      <a class="various fancybox.iframe" href="http://www.youtube.com/embed/nBfyEMM-ZUQ?rel=0"><img src="images/audiovisual/stephanie.jpg" alt="Stephanie" /></a>
+      <div class="c-av__item">
+        <h3 class="u-heading-small">Stephanie</h3>
+        <a class="various fancybox.iframe" href="http://www.youtube.com/embed/nBfyEMM-ZUQ?rel=0"><img src="images/audiovisual/stephanie.jpg" alt="Stephanie" /></a>
+      </div>
 
-      <h3 class="video-title">El show de Anselmo</h3>
-      <a class="various fancybox.iframe" href="http://www.youtube.com/embed/BgEye74EA7o?rel=0"><img src="images/audiovisual/el-show-de-anselmo.jpg" alt="El show de Anselmo" /></a>
+      <div class="c-av__item">
+        <h3 class="u-heading-small">El show de Anselmo</h3>
+        <a class="various fancybox.iframe" href="http://www.youtube.com/embed/BgEye74EA7o?rel=0"><img src="images/audiovisual/el-show-de-anselmo.jpg" alt="El show de Anselmo" /></a>
+      </div>
     </div>
 
     <div class="l-column-3">
-      <h3 class="video-title">El encuentro</h3>
-      <a class="various fancybox.iframe" href="http://www.youtube.com/embed/oZpUCsYk2r4?rel=0"><img src="images/audiovisual/el-encuentro.jpg" alt="El encuentro" /></a>
+      <div class="c-av__item">
+        <h3 class="u-heading-small">El encuentro</h3>
+        <a class="various fancybox.iframe" href="http://www.youtube.com/embed/oZpUCsYk2r4?rel=0"><img src="images/audiovisual/el-encuentro.jpg" alt="El encuentro" /></a>
+      </div>
 
       <div class="more placeholder-image">
         <p><a href="http://www.youtube.com/user/maxigerscovich" target="_blank">mas videos</a></p>

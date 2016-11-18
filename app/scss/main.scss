@@ -39,12 +39,14 @@
 @import 'components.tabs';
 @import 'components.words';
 @import 'components.enterprises';
+@import 'components.av';
 @import 'components.bio';
 @import 'components.musica';
 @import 'components.video';
 
 // Trumps / Helpers
 @import 'helpers.clearfix';
+@import 'helpers.headings';
 
 body {
   font-family: $font-fallback;
