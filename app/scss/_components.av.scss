@@ -8,3 +8,18 @@
 	width: 100%;
 	height: auto;
 }
+
+.c-av__item-more {
+	position: relative;
+	background-color: $color-black;
+}
+
+.c-av__item-more a {
+	display: block;
+	width: 100%;
+	font-size: rem(24);
+	text-transform: uppercase;
+	color: $color-salmon;
+  font-family: $font-open-sans;
+  text-align: center;	
+}

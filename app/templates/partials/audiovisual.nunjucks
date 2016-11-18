@@ -58,8 +58,8 @@
         <a class="various fancybox.iframe" href="http://www.youtube.com/embed/oZpUCsYk2r4?rel=0"><img src="images/audiovisual/el-encuentro.jpg" alt="El encuentro" /></a>
       </div>
 
-      <div class="more placeholder-image">
-        <p><a href="http://www.youtube.com/user/maxigerscovich" target="_blank">mas videos</a></p>
+      <div class="c-av__item-more">
+        <a href="http://www.youtube.com/user/maxigerscovich" target="_blank">mas videos</a>
       </div>
     </div>
   </div>
