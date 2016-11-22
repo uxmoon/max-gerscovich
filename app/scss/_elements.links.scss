@@ -1,17 +1,12 @@
 // LVHA Link Visited Hover Active
-a:link {
-  text-decoration: none;
-}
-
+a:link,
 a:visited {
   text-decoration: none;
+  color: $color-salmon;
 }
 
 a:focus,
-a:hover {
-  text-decoration: underline;
-}
-
+a:hover,
 a:active {
   text-decoration: underline;
 }

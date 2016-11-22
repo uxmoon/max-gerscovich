@@ -28,14 +28,14 @@
       <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1424635607/size=medium/bgcol=ffffff/linkcol=f26c4f/transparent=true/" seamless><a href="http://saigonagogo.bandcamp.com/album/cerdos" target="_blank">Cerdos! by Saigon A Go Go</a></iframe>
 
       <div class="u-clearfix">
-        
-        <div class="c-musica__column">
-          <p><strong>Ficha técnica</strong></p>
+
+        <div class="c-musica__">
+          <h4>Ficha técnica</h4>
           <ul class="list">
             <li>Compuesto y producido por Maximiliano Gerscovich</li>
           </ul>
 
-          <p><strong>Banda</strong></p>
+          <h4>Banda</h4>
           <ul class="list">
             <li>Voz, coros y guitarras: Maximiliano Gerscovich</li>
             <li>Bajo: Gustavo Tonelli </li>
@@ -49,8 +49,8 @@
           </ul>
         </div>
 
-        <div class="c-musica__column">
-          <p><strong>Mezcla y grabación</strong></p>
+        <div class="c-musica__">
+          <h4>Mezcla y grabación</h4>
           <ul class="list">
             <li>Voces, piano, bandoneón y vientos grabados por Mariano Beyoglonian en Ion </li>
             <li>Batería grabada por Tomás Vigo en Estudio Insoluble. Drum Dr: Bolsa González </li>
@@ -63,19 +63,32 @@
         </div>
       </div>
 
-      <div class="c-musica__column">
-        <p><i class="icon-music"></i> <a href="http://saigonagogo.bandcamp.com/" title="Saigon A Go Go en Bandcamp" target="_blank">Saigon A Go Go en Bandcamp</a></p>
+      <div class="c-musica__">
+        <a href="http://saigonagogo.bandcamp.com/" title="Saigon A Go Go en Bandcamp" target="_blank">
+        <svg class="icon  icon-music">
+          <use xlink:href="#icon-music"></use>
+        </svg>
+        Saigon A Go Go en Bandcamp</a>
       </div>
-      
-      <div class="c-musica__column">
-        <p><i class="icon-facebook"></i> <a href="https://www.facebook.com/saigonagogo" title="Saigon A Go Go en Facebook" target="_blank"> Saigon A Go Go en Facebook</a></p>
+
+      <div class="c-musica__">
+        <a href="https://www.facebook.com/saigonagogo" title="Saigon A Go Go en Facebook" target="_blank">
+        <svg class="icon  icon-facebook">
+          <use xlink:href="#icon-facebook"></use>
+        </svg>
+        Saigon A Go Go en Facebook</a>
       </div>
 
     </div>
 
     <div class="l-column-4">
-      <h4 class="title">Stingin' Tears</h4>
-      <a class="various fancybox.iframe" href="http://www.youtube.com/embed/l5vHUNi9l88?rel=0"><img src="images/musica/stingin-tears.jpg" alt="Stingin' tears" /></a>
+
+      <h3 class="u-heading-medium">Stingin' Tears</h3>
+
+      <a class="various fancybox.iframe" href="http://www.youtube.com/embed/l5vHUNi9l88?rel=0">
+        <img src="images/musica/stingin-tears.jpg" alt="Stingin' tears" />
+      </a>
+
       <p>Compuesto y producido por Maximiliano Gerscovich </p>
 
       <ul class="list">
@@ -89,7 +102,7 @@
 
       <p>Grabado en Stratosphere Sound, New York <br>Ingeniero de sonido: Rudyard Lee Cullers <br>Asistente de grabación: Adam Tilzer </p>
 
-      <p>Masterizado en Sterling Sound, NY <br>Ingeniero de mastering: Chris Gehringer</p>          
+      <p>Masterizado en Sterling Sound, NY <br>Ingeniero de mastering: Chris Gehringer</p>
     </div>
 
   </div>

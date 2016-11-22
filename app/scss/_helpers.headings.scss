@@ -5,3 +5,12 @@
   font-size: rem(14);
   text-transform: uppercase;
 }
+
+.u-heading-medium {
+	margin-bottom: gutter();
+  color: $color-salmon;
+  font-size: rem(24);
+  font-family: $font-open-sans;
+  font-weight: 300;
+  text-transform: uppercase;
+}
