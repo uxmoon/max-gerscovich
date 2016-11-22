@@ -18,20 +18,16 @@
 
 
   <div class="l-row">
-    
+
     <div class="l-column-4  u-align-center">
-      
-      <div class="mosaic-block bar placeholder-image top">
+
+      <div class="c-rollover">
         <a href="http://www.pinterest.com/maxigerscovich/boards/" target="_blank" class="mosaic-overlay">
-          <div class="details">
-            <img src="images/arte-visual/fotografia.jpg" alt="Fotografía" />
-          </div>
+          <h4>Fotografía</h4>
+          <img src="images/arte-visual/fotografia.jpg" alt="Fotografía" />
         </a>
-        <div class="mosaic-backdrop">
-          <p>Fotografía</p>
-        </div>
       </div>
-      
+
       <div class="mosaic-block bar placeholder-image">
         <a href="http://www.pinterest.com/maxigerscovich/boards/" target="_blank" class="mosaic-overlay">
           <div class="details">
@@ -102,7 +98,7 @@
           <p>Mas trabajos</p>
         </div>
       </div>
-    
+
     </div>
 
   </div>
