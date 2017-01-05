@@ -1,4 +1,4 @@
-<div id="seccion-03" class="c-musica">
+<section id="musica" class="c-musica">
   <h2>Música</h2>
 
   <div class="l-row">
@@ -107,4 +107,4 @@
 
   </div>
 
-</div>
+</section>

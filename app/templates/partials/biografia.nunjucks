@@ -1,4 +1,4 @@
-<div id="biografia" class="c-biografia  bg-light  bg-light--textured">
+<section id="biografia" class="c-biografia  bg-light  bg-light--textured">
 
   <h2>Biografía</h2>
 
@@ -332,4 +332,4 @@
     </div>
 
   </div>
-</div>
+</section>

@@ -1,4 +1,4 @@
-<div id="seccion-04" class="c-arte">
+<section id="arte-visual" class="c-arte">
 
   <h2>Arte visual</h2>
 
@@ -103,4 +103,4 @@
 
   </div>
 
-</div>
+</section>

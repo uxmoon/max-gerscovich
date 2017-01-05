@@ -1,8 +1,8 @@
-<div id="seccion-02" class="audiovisual">
+<section id="audiovisual" class="audiovisual">
 
   <h2>Audiovisual</h2>
 
-  <div class="l-row">  
+  <div class="l-row">
     <div class="l-column-12">
       <p>Conocí a MG en el viejo CERC. Éramos pocos, y no necesariamente los mejores de nuestra generación. El reinado del NCA aun no se vislumbraba, y todavía había que discutir con los profesores y soñar con hacer cine por fuera del Mainstream (ni siquiera existían las cámaras digitales, como para alimentar nuestro sueño de independencia). Los hermanos mayores parecían condenados al exilio o a eternizarse en el escalafón de la industria. Y los hermanos menores (los niños ricos y tristes que los noventas vinieron a criar) buscaban horizontes menos públicos y populares. Nosotros quedamos atrapados en esa trama demasiado familiar: algunos cayeron en el éxito o el fracaso, y algunos pocos lograron hacer algo de lo que realmente se sintieran orgullosos.</p>
 
@@ -11,7 +11,7 @@
       <p>Cuenta la leyenda que luego de ver Eraserhead, Mel Brooks salió de la sala y se aferró al desazonado David Lynch (que pensaba que su carrera había terminado antes de empezar) al grito de "You're a madman... I love you!": es tan común que los productores griten sólo la primera mitad de esa frase como que algunos se entreguen a la segunda, pero lo verdaderamente extraño es que articulen  ambas mitades y defiendan a ese talento desquiciado. Pensar que el talento de Lynch podía quedar en el borrador de Eraserhead es tan injusto como asumir que el de MG se agota en ese experimento cruel llamado Stephanie.</p>
 
       <p class="author">por Nicolás Prividera</p>
-      
+
     </div>
   </div>
 
@@ -64,4 +64,4 @@
     </div>
   </div>
 
-</div>
+</section>

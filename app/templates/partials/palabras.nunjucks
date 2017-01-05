@@ -1,9 +1,9 @@
-<div id="seccion-05" class="c-words">
+<section id="palabras" class="c-words">
 
     <h2>Palabras</h2>
 
     <div class="l-row ">
-      
+
       <div class="l-column-12">
         <ul class="c-tabs">
           <li class="c-tabs__item"><a href="#tabs-1" title="Proyectos">Proyectos</a></li>
@@ -12,7 +12,7 @@
           <li class="c-tabs__item"><a href="#tabs-4" title="Letras">Letras</a></li>
           <li class="c-tabs__item"><a href="#tabs-5" title="Poesías">Poesías</a></li>
         </ul>
-      </div>        
+      </div>
 
 
         <div id="tabs-1" class="u-clearfix content">
@@ -51,13 +51,13 @@
 
               <h3>Necrológica</h3>
               <p>Néstor Kirchner (1950-2010) fue un político inescrupuloso; acrecentó su fortuna desde la gestión pública en un país cada vez más empobrecido; malversó fondos públicos (Santa Cruz); fue socio de las mafias sindicales-empresariales (Moyano & Co.), del aparato hiper corrupto del PJ bonaerense; tuvo en su círculo más cercano a personajes despreciables como D'Elia, De Vido, y Moreno; hizo muy buenos negocios durante la dictadura, apoyó al menemato y llegó a la presidencia de la mano del duhaldismo pero, una vez en el poder, no dudó en traicionar a sus mentores y, amparándose en la consuetudinaria amnesia colectiva de la sociedad argentina, construyó un personaje con un discurso almibarado que atrajo al consabido enjambre pseudo progresista de la parte intelectualmente más pauperizada de la clase media; antepuso los fines a los medios; se regodeó en la obsecuencia de los mediocres; compró voluntades; flirteó con el autoritarismo, creyó perpetuarse a través del nepotismo y debilitó a la República.</p>
-              
+
               <p>Me guardo mi alegría para los momentos de triunfo, que no es éste, así como me reservo mis condolencias para las auténticas pérdidas y mi respeto para los espíritus nobles.</p>
-              
+
               <p>El tono del luto por su muerte no debe ser negro, sino de un gris turbio.</p>
-              
+
               <p><em>Maximiliano Gerscovich</em><br>Publicado en Facebook, 27 de Octubre de 2010</p>
-              
+
               <p><a href="http://sssstephanieeee.blogspot.com.ar/" target="_blank">Otras notas</a></p>
 
           </div>
@@ -226,5 +226,5 @@
 
       </div>
 
-  </div>  
-</div>
+  </div>
+</section>

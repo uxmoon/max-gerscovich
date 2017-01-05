@@ -1,4 +1,4 @@
-<footer id="contacto" class="bg-dark  bg-dark--textured  l-module">
+<section id="contacto" class="bg-dark  bg-dark--textured  l-module">
 
   <div class="l-row">
 
@@ -43,4 +43,4 @@
     </div>
 
   </div>
-</footer>
+</section>

@@ -1,9 +1,10 @@
 .c-nav {
+	margin: 0;
 	background-color: $color-black;
 	text-align: center;
 }
 
-.c-nav__item {
+.c-nav li {
 	display: inline-block;
 	font-family: $font-asap;
 	font-weight: 700;
@@ -26,9 +27,18 @@
 	}
 }
 
-.c-nav--active {
-	a:link,
-	a:hover {
+// .c-nav--active {
+	a.active:link,
+	a.active:hover {
 		background-color: $color-salmon;
 	}
+// }
+
+.js-sticky .c-nav {
+	// background-color: #f00;
+	position: fixed;
+	width: 100%;
+	top: 0;
+	left: 0;
+	z-index: 1;
 }

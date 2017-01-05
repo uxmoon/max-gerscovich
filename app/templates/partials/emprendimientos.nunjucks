@@ -1,4 +1,4 @@
-<div id="seccion-06" class="seccion c-enterprises">
+<section id="emprendimientos" class="seccion c-enterprises">
 
     <h2>Emprendimientos</h2>
 
@@ -29,4 +29,4 @@
       </div>
     </div>
 
-</div>
+</section>
